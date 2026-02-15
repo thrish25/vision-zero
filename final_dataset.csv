@@ -1,0 +1,751 @@
+Date,Clock Time,Location,Severity,Vehicle Details,Causes,Highway Type,Count,Latitude,Longitude,Weather,Time Category
+11-07-2023,15:59,Odisha,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,87,25.741567292799466,96.62212211572744,Clear,Afternoon
+02-11-2023,08:51,Maharashtra,Fatal,Van,Over-speeding,National Highways under Other department,5,25.991264028083556,89.37596204321275,Clear,Morning
+07-04-2023,09:29,Chandigarh,Accident,Auto-rickshaw,Drunk driving,National Highways under Other department,49,31.616821719374272,96.33508023525974,Clear,Morning
+25-08-2023,04:56,Uttar Pradesh,Fatal,Two-wheeler,Over-speeding,National Highways under Other department,5,23.371878123198194,84.66852615266059,Clear,Night
+04-06-2023,18:40,Bihar,Fatal,Van,Driving on Wrong side,National Highways under NHAI,60,34.705091737329006,96.86080377216688,Stormy,Evening
+09-09-2023,13:10,Punjab,Accident,Truck,Use of Mobile Phone,National Highways under Other department,56,26.749622975330862,89.46444474751993,Rainy,Afternoon
+03-04-2023,11:54,West Bengal,Fatal,Van,Use of Mobile Phone,National Highways under Other department,100,26.810073895793003,81.99015623977208,Rainy,Morning
+23-07-2023,21:21,Delhi,Fatal,Tractor,Drunk driving,National Highways under State PWD,3,23.596833349261573,90.59836110123221,Rainy,Night
+18-05-2023,16:17,Madhya Pradesh,Fatal,Car,Over-speeding,National Highways under NHAI,100,28.435132625595003,72.18515060455196,Foggy,Afternoon
+16-04-2023,10:02,Telangana,Accident,Truck,Use of Mobile Phone,National Highways under NHAI,42,15.65124201237861,69.68284750260602,Stormy,Morning
+29-07-2023,08:23,Assam,Fatal,Car,Driving on Wrong side,National Highways under NHAI,90,21.905217987206647,71.80558050847463,Foggy,Morning
+23-05-2023,02:33,Uttar Pradesh,Fatal,Auto-rickshaw,Drunk driving,National Highways under State PWD,89,23.570094107334302,86.53973807794104,Rainy,Night
+18-04-2023,20:58,Uttar Pradesh,Fatal,Tractor,Fatigue,National Highways under NHAI,100,30.49483954943712,80.07412116119285,Clear,Evening
+01-04-2023,08:17,Madhya Pradesh,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,85,16.486714598255645,81.6121619410601,Rainy,Morning
+20-10-2023,19:45,Telangana,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,34,13.625769050073494,73.18947587170501,Clear,Evening
+27-02-2023,08:37,Goa,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under State PWD,93,13.988601727509282,86.04419316339641,Foggy,Morning
+10-08-2023,20:24,Bihar,Fatal,Auto-rickshaw,Over-speeding,National Highways under Other department,10,28.04068281764646,85.43656940965258,Clear,Evening
+02-04-2023,02:32,Haryana,Accident,Truck,Fatigue,National Highways under Other department,3,17.605121398627325,94.86711659897138,Rainy,Night
+29-05-2023,10:04,Madhya Pradesh,Accident,Tractor,Use of Mobile Phone,National Highways under State PWD,36,29.970431011637018,78.56948669992238,Stormy,Morning
+12-08-2023,08:04,Punjab,Fatal,Tractor,Drunk driving,National Highways under State PWD,57,20.027413253250316,71.4367176941979,Rainy,Morning
+02-12-2023,14:39,Punjab,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under Other department,93,22.563799178366484,85.51236004662209,Rainy,Afternoon
+26-07-2023,03:42,Chandigarh,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under NHAI,37,12.352266115591117,76.56286903814565,Foggy,Night
+18-10-2023,03:14,Goa,Fatal,Tractor,Driving on Wrong side,National Highways under State PWD,63,34.221839033935794,83.12106020497163,Rainy,Night
+29-11-2023,18:00,Goa,Accident,Tractor,Over-speeding,National Highways under State PWD,8,11.254056116678392,68.17823032995398,Rainy,Evening
+31-10-2023,12:16,Goa,Accident,Van,Use of Mobile Phone,National Highways under NHAI,20,34.94055450075787,68.96699464548186,Clear,Afternoon
+20-05-2023,04:58,Jharkhand,Accident,Two-wheeler,Use of Mobile Phone,National Highways under Other department,44,26.939897222195274,87.42416413523132,Foggy,Night
+08-11-2023,02:47,Maharashtra,Fatal,Car,Use of Mobile Phone,National Highways under NHAI,21,21.263507868550324,78.47240985858367,Clear,Night
+10-08-2023,15:58,Gujarat,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,73,21.714177416120627,80.92243730133208,Foggy,Afternoon
+03-04-2023,18:45,Gujarat,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,8,29.295038377345104,87.39723738416798,Stormy,Evening
+26-01-2023,21:59,Karnataka,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,49,30.26025708880882,78.82103824323349,Stormy,Night
+02-01-2023,09:09,Andaman and Nicobar Island,Accident,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,97,11.153501971957848,71.7965190925374,Rainy,Morning
+09-11-2023,13:41,Goa,Accident,Van,Driving on Wrong side,National Highways under State PWD,66,14.545721983574248,84.42979697327237,Clear,Afternoon
+13-04-2023,10:54,Andaman and Nicobar Island,Fatal,Auto-rickshaw,Fatigue,National Highways under Other department,36,14.068890661796189,79.10642058700836,Foggy,Morning
+09-07-2023,20:51,Chhattisgarh,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,61,14.376903521124042,90.04452595994448,Clear,Evening
+24-01-2023,10:45,Rajasthan,Fatal,Truck,Drunk driving,National Highways under NHAI,84,16.197355019506777,85.58627472288698,Clear,Morning
+08-04-2023,01:49,Jammu and Kashmir,Accident,Van,Driving on Wrong side,National Highways under Other department,82,22.591155312719597,74.58171994978466,Stormy,Night
+28-05-2023,10:27,Bihar,Fatal,Auto-rickshaw,Over-speeding,National Highways under NHAI,96,22.592289877753736,88.50877513843575,Stormy,Morning
+10-11-2023,05:35,Karnataka,Accident,Truck,Over-speeding,National Highways under NHAI,94,32.694710053225414,84.94116710101517,Clear,Morning
+11-06-2023,16:04,Chandigarh,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,23,32.727305337394924,76.71760531208125,Rainy,Afternoon
+30-05-2023,15:28,Chhattisgarh,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,43,28.780220218112742,86.98675214214926,Stormy,Afternoon
+11-02-2023,05:58,Haryana,Accident,Truck,Fatigue,National Highways under Other department,54,30.626726893545616,78.79447891576261,Rainy,Morning
+02-11-2023,06:18,Jharkhand,Accident,Auto-rickshaw,Drunk driving,National Highways under Other department,23,30.889614283932303,92.00732790854948,Stormy,Morning
+16-10-2023,03:48,West Bengal,Accident,Bus,Drunk driving,National Highways under NHAI,45,21.86130028732771,70.58637113973042,Foggy,Night
+19-01-2023,23:29,Odisha,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under State PWD,12,13.39456599152876,87.71069696981753,Foggy,Night
+26-12-2023,14:46,Chhattisgarh,Fatal,Car,Fatigue,National Highways under NHAI,86,33.54507952485538,76.10585687826214,Foggy,Afternoon
+22-07-2023,15:17,Bihar,Fatal,Car,Driving on Wrong side,National Highways under NHAI,18,10.48186824112633,78.4202066313853,Clear,Afternoon
+02-04-2023,22:03,Andhra Pradesh,Fatal,Two-wheeler,Drunk driving,National Highways under Other department,89,27.394867167270146,82.46271366627691,Rainy,Night
+06-06-2023,05:24,Bihar,Accident,Van,Drunk driving,National Highways under Other department,76,15.297962381904911,79.60335956017144,Clear,Morning
+28-06-2023,11:51,Haryana,Accident,Tractor,Fatigue,National Highways under Other department,94,27.932962943685645,83.36483528781054,Rainy,Morning
+30-07-2023,22:17,Goa,Fatal,Van,Drunk driving,National Highways under Other department,88,8.458574402630308,78.31819756892173,Rainy,Night
+24-09-2023,00:41,Arunachal Pradesh,Fatal,Auto-rickshaw,Fatigue,National Highways under State PWD,9,21.334667249143493,85.13260576526096,Clear,Night
+23-06-2023,13:52,Delhi,Accident,Van,Use of Mobile Phone,National Highways under Other department,53,26.58309375828401,79.94095724718005,Rainy,Afternoon
+07-10-2023,02:58,Himachal Pradesh,Fatal,Two-wheeler,Fatigue,National Highways under State PWD,30,15.945796915304275,87.15130209957258,Rainy,Night
+11-01-2023,10:53,West Bengal,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,17,18.443030823909726,87.9434971044845,Stormy,Morning
+25-03-2023,05:24,Tamil Nadu,Fatal,Truck,Use of Mobile Phone,National Highways under State PWD,20,15.674411658617839,89.24156211076729,Clear,Morning
+05-09-2023,17:50,Odisha,Fatal,Truck,Drunk driving,National Highways under Other department,75,16.40663093266769,73.79240263150028,Stormy,Evening
+02-06-2023,10:08,Telangana,Accident,Van,Drunk driving,National Highways under Other department,75,22.31151362285285,81.60566469051669,Rainy,Morning
+29-03-2023,13:55,Uttar Pradesh,Accident,Van,Drunk driving,National Highways under State PWD,49,24.76511322067845,95.6165412245598,Rainy,Afternoon
+05-05-2023,08:36,Kerala,Accident,Van,Fatigue,National Highways under State PWD,73,28.992176117129485,90.51240393898414,Rainy,Morning
+08-01-2023,11:35,Rajasthan,Fatal,Truck,Drunk driving,National Highways under State PWD,91,9.119589569403708,69.46077197941642,Foggy,Morning
+03-08-2023,08:24,Chandigarh,Fatal,Car,Fatigue,National Highways under NHAI,38,24.064513175895325,83.49768701348744,Stormy,Morning
+26-12-2023,02:01,Telangana,Accident,Auto-rickshaw,Drunk driving,National Highways under NHAI,42,33.45777783278069,84.76048578384945,Rainy,Night
+10-05-2023,08:45,Assam,Accident,Car,Use of Mobile Phone,National Highways under NHAI,48,33.38636527927666,85.58690649392818,Foggy,Morning
+18-01-2023,09:19,Odisha,Fatal,Two-wheeler,Drunk driving,National Highways under NHAI,97,21.43976148402101,75.6901420085342,Foggy,Morning
+18-03-2023,00:32,Chhattisgarh,Accident,Car,Driving on Wrong side,National Highways under State PWD,73,28.042994355144188,69.72358364701381,Clear,Night
+09-11-2023,11:29,Assam,Accident,Bus,Drunk driving,National Highways under State PWD,65,25.023436315761014,92.65735255429206,Foggy,Morning
+31-03-2023,01:29,Haryana,Fatal,Car,Use of Mobile Phone,National Highways under Other department,41,19.98131820616328,87.52418482639727,Stormy,Night
+07-09-2023,05:47,Karnataka,Accident,Bus,Drunk driving,National Highways under State PWD,47,12.67718413482,80.93467884453804,Rainy,Morning
+05-11-2023,20:26,Punjab,Fatal,Van,Fatigue,National Highways under State PWD,29,21.799753285191628,79.81543411084067,Rainy,Evening
+18-01-2023,09:57,Jammu and Kashmir,Fatal,Car,Fatigue,National Highways under State PWD,99,19.94024545114759,74.37964870639634,Clear,Morning
+29-11-2023,23:58,Chhattisgarh,Accident,Two-wheeler,Driving on Wrong side,National Highways under Other department,94,19.31862687952202,82.51824887370474,Foggy,Night
+04-03-2023,05:12,Uttar Pradesh,Accident,Van,Use of Mobile Phone,National Highways under Other department,18,19.951712654780174,94.78009285392965,Rainy,Morning
+16-07-2023,11:10,Karnataka,Accident,Van,Fatigue,National Highways under Other department,19,33.93089898361539,80.05595759780567,Clear,Morning
+01-08-2023,11:57,Gujarat,Accident,Bus,Drunk driving,National Highways under State PWD,74,26.174522990112674,95.90328778434208,Stormy,Morning
+29-10-2023,07:44,Delhi,Accident,Van,Fatigue,National Highways under Other department,99,16.69411744265123,87.7234473873153,Rainy,Morning
+14-09-2023,20:16,Himachal Pradesh,Accident,Auto-rickshaw,Over-speeding,National Highways under State PWD,26,16.407429318871046,92.35403069254772,Foggy,Evening
+26-02-2023,09:36,Goa,Accident,Car,Fatigue,National Highways under State PWD,42,12.185757225146197,68.23026786206131,Rainy,Morning
+07-04-2023,05:38,Jammu and Kashmir,Accident,Two-wheeler,Fatigue,National Highways under State PWD,22,14.68147894186815,83.28702194992395,Rainy,Morning
+04-04-2023,11:30,Madhya Pradesh,Fatal,Tractor,Drunk driving,National Highways under State PWD,51,12.989400908146257,72.18102034579869,Clear,Morning
+27-02-2023,22:54,Jammu and Kashmir,Accident,Car,Over-speeding,National Highways under Other department,50,12.544438965559989,77.45305949833458,Foggy,Night
+30-04-2023,20:05,Gujarat,Fatal,Truck,Fatigue,National Highways under NHAI,100,33.30443279104387,83.8913987523835,Clear,Evening
+25-10-2023,06:00,Assam,Accident,Auto-rickshaw,Over-speeding,National Highways under State PWD,81,30.609995992082503,95.66247968059116,Rainy,Morning
+25-03-2023,10:29,West Bengal,Accident,Tractor,Over-speeding,National Highways under Other department,45,33.28424032734969,80.65656975523027,Rainy,Morning
+28-09-2023,23:57,Telangana,Fatal,Truck,Driving on Wrong side,National Highways under Other department,37,19.271711773492626,94.30514793114331,Clear,Night
+17-10-2023,15:47,Haryana,Accident,Auto-rickshaw,Fatigue,National Highways under Other department,62,31.538686078831727,80.77043329188633,Stormy,Afternoon
+04-04-2023,22:12,Maharashtra,Fatal,Car,Fatigue,National Highways under State PWD,33,31.115362056769744,94.19155370727009,Stormy,Night
+20-07-2023,13:18,Uttar Pradesh,Accident,Tractor,Over-speeding,National Highways under State PWD,86,23.8747901755591,91.08351823235223,Clear,Afternoon
+07-09-2023,07:06,Haryana,Fatal,Truck,Drunk driving,National Highways under Other department,53,21.409780452720387,86.377793699242,Clear,Morning
+17-04-2023,14:36,Odisha,Accident,Truck,Over-speeding,National Highways under NHAI,49,10.036015131050299,80.97936389811808,Stormy,Afternoon
+09-12-2023,02:02,Chandigarh,Fatal,Van,Drunk driving,National Highways under Other department,7,31.581215707972213,87.49587070924744,Foggy,Night
+09-10-2023,10:35,Madhya Pradesh,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,24,33.097451601225956,85.9642887256626,Rainy,Morning
+05-03-2023,04:27,Odisha,Fatal,Van,Driving on Wrong side,National Highways under Other department,85,14.602843405989756,85.18883068175867,Rainy,Night
+12-03-2023,06:46,Goa,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,20,8.734821935346863,81.12198481243284,Clear,Morning
+24-10-2023,08:26,Jammu and Kashmir,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,13,28.843804619233932,94.57923105457819,Foggy,Morning
+15-06-2023,16:43,Gujarat,Accident,Tractor,Over-speeding,National Highways under State PWD,23,19.262590563022336,90.63501876576996,Rainy,Afternoon
+16-09-2023,18:21,Chandigarh,Fatal,Van,Fatigue,National Highways under NHAI,54,17.97460182892368,90.2275851736925,Foggy,Evening
+19-02-2023,15:01,Andhra Pradesh,Fatal,Car,Fatigue,National Highways under NHAI,74,29.74205337165462,69.59108151207012,Clear,Afternoon
+21-02-2023,19:02,Chandigarh,Fatal,Bus,Driving on Wrong side,National Highways under Other department,62,21.751719531957775,80.74892051904519,Stormy,Evening
+17-01-2023,17:03,Telangana,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,26,14.441180473086634,87.5971882596417,Rainy,Evening
+28-01-2023,18:03,Chhattisgarh,Accident,Truck,Drunk driving,National Highways under State PWD,8,14.642083828365914,85.80039440889169,Clear,Evening
+24-11-2023,03:31,Gujarat,Accident,Van,Over-speeding,National Highways under State PWD,86,23.621550159643252,83.14275357815724,Stormy,Night
+16-02-2023,00:57,Chandigarh,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,16,17.014549199619267,69.44921321780679,Clear,Night
+17-04-2023,20:24,Odisha,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,65,19.231993477263558,94.75280059027506,Foggy,Evening
+27-12-2023,01:31,Tamil Nadu,Fatal,Car,Driving on Wrong side,National Highways under State PWD,7,28.815512408228926,88.38760091099098,Foggy,Night
+22-01-2023,10:34,Himachal Pradesh,Accident,Car,Driving on Wrong side,National Highways under State PWD,19,25.656710764107885,95.91970772811007,Stormy,Morning
+24-08-2023,05:40,Andaman and Nicobar Island,Fatal,Truck,Drunk driving,National Highways under Other department,81,22.784330556043553,94.13403413134628,Stormy,Morning
+25-06-2023,15:16,Telangana,Fatal,Two-wheeler,Fatigue,National Highways under State PWD,9,8.53190599209017,74.41863155237924,Stormy,Afternoon
+29-04-2023,14:43,Rajasthan,Accident,Van,Use of Mobile Phone,National Highways under NHAI,9,25.068158377605712,74.62104161779051,Foggy,Afternoon
+07-05-2023,16:59,Odisha,Accident,Van,Driving on Wrong side,National Highways under NHAI,52,34.262022484060964,70.96155236571424,Clear,Afternoon
+20-06-2023,03:21,Odisha,Fatal,Auto-rickshaw,Drunk driving,National Highways under NHAI,52,34.436169022661005,91.57225357386886,Foggy,Night
+26-04-2023,21:32,West Bengal,Fatal,Tractor,Drunk driving,National Highways under State PWD,72,10.239783746847603,79.88893656266868,Foggy,Night
+07-10-2023,16:42,Uttar Pradesh,Accident,Tractor,Driving on Wrong side,National Highways under NHAI,72,17.86347589398298,92.69897974352892,Foggy,Afternoon
+06-06-2023,14:12,Maharashtra,Fatal,Tractor,Driving on Wrong side,National Highways under Other department,3,8.80499334120597,79.62659397756256,Rainy,Afternoon
+10-02-2023,16:28,Chhattisgarh,Fatal,Bus,Use of Mobile Phone,National Highways under NHAI,54,33.28294513209565,74.0428554747098,Stormy,Afternoon
+28-03-2023,04:32,Andaman and Nicobar Island,Accident,Tractor,Over-speeding,National Highways under State PWD,70,20.850795292478516,84.65823264973048,Clear,Night
+24-12-2023,04:41,Chhattisgarh,Accident,Bus,Use of Mobile Phone,National Highways under NHAI,95,28.427574426738587,93.08931029982327,Stormy,Night
+16-06-2023,00:26,Odisha,Accident,Two-wheeler,Drunk driving,National Highways under State PWD,45,17.318531421217735,81.98524349323208,Clear,Night
+23-03-2023,22:12,Andhra Pradesh,Fatal,Van,Driving on Wrong side,National Highways under Other department,62,19.946430501914246,78.6421774156593,Stormy,Night
+02-12-2023,10:26,Uttar Pradesh,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,52,25.2895779813837,90.19959572303985,Foggy,Morning
+20-08-2023,04:14,Chandigarh,Fatal,Auto-rickshaw,Over-speeding,National Highways under Other department,27,32.778410297629975,84.32580920274975,Stormy,Night
+18-07-2023,05:42,Tamil Nadu,Fatal,Truck,Fatigue,National Highways under Other department,49,30.9564453003613,84.49977158766369,Foggy,Morning
+18-12-2023,19:13,Goa,Fatal,Car,Over-speeding,National Highways under Other department,16,21.55518593449291,84.88670570841084,Foggy,Evening
+17-06-2023,03:00,Uttar Pradesh,Accident,Tractor,Drunk driving,National Highways under State PWD,92,13.199102240227276,78.58973995798588,Stormy,Night
+16-11-2023,18:45,Assam,Fatal,Van,Fatigue,National Highways under State PWD,60,16.516172765900244,83.81588501884845,Stormy,Evening
+01-04-2023,20:27,Odisha,Accident,Car,Over-speeding,National Highways under Other department,95,15.892105285100264,87.874948792921,Clear,Evening
+17-08-2023,18:33,Tamil Nadu,Fatal,Car,Use of Mobile Phone,National Highways under State PWD,73,26.819881603002703,70.05471152353245,Stormy,Evening
+01-10-2023,15:18,Bihar,Fatal,Bus,Driving on Wrong side,National Highways under State PWD,5,17.845316686755893,87.41876698535255,Rainy,Afternoon
+24-06-2023,06:59,Chhattisgarh,Accident,Van,Over-speeding,National Highways under State PWD,10,20.938340620141346,71.11856927404816,Foggy,Morning
+03-03-2023,03:02,Arunachal Pradesh,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,27,12.438539887932254,72.31154760305293,Clear,Night
+10-03-2023,14:26,Himachal Pradesh,Accident,Bus,Fatigue,National Highways under NHAI,82,33.49179265996054,83.51843543708003,Clear,Afternoon
+16-03-2023,11:43,Karnataka,Fatal,Auto-rickshaw,Drunk driving,National Highways under NHAI,40,26.269196124066486,76.31860669515677,Stormy,Morning
+09-05-2023,20:53,Andaman and Nicobar Island,Accident,Car,Drunk driving,National Highways under NHAI,67,25.076878125560775,88.4702363838438,Foggy,Evening
+22-11-2023,23:21,Haryana,Fatal,Two-wheeler,Fatigue,National Highways under Other department,2,9.440572147601936,79.87171387082337,Foggy,Night
+06-04-2023,00:06,Chandigarh,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,29,20.28851294403251,92.47943154020618,Stormy,Night
+29-09-2023,03:08,Jharkhand,Fatal,Truck,Use of Mobile Phone,National Highways under NHAI,79,26.849662586311997,76.21808137402395,Rainy,Night
+26-05-2023,03:56,Assam,Fatal,Van,Over-speeding,National Highways under Other department,55,32.62857787126319,82.5031800413143,Clear,Night
+28-06-2023,16:02,Chandigarh,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,36,34.71490485474625,87.26828348498779,Stormy,Afternoon
+26-10-2023,03:27,Haryana,Fatal,Car,Over-speeding,National Highways under NHAI,62,14.150638695128745,85.48923403365077,Foggy,Night
+18-11-2023,18:54,Goa,Fatal,Truck,Use of Mobile Phone,National Highways under Other department,98,30.505886087789055,92.87777177168957,Foggy,Evening
+14-02-2023,21:29,Madhya Pradesh,Accident,Car,Use of Mobile Phone,National Highways under Other department,26,13.276360679671889,84.37019984434363,Clear,Night
+23-08-2023,18:35,Haryana,Fatal,Car,Drunk driving,National Highways under Other department,57,30.248956867799276,88.66699045564303,Foggy,Evening
+28-11-2023,21:06,Telangana,Accident,Two-wheeler,Over-speeding,National Highways under Other department,66,16.424678445427418,93.6602060035689,Rainy,Night
+26-08-2023,02:50,West Bengal,Fatal,Two-wheeler,Fatigue,National Highways under Other department,10,16.513741044996124,77.7354803026768,Stormy,Night
+17-01-2023,20:46,Odisha,Accident,Truck,Drunk driving,National Highways under Other department,75,19.37937187855973,81.94564097544789,Clear,Evening
+22-06-2023,11:33,Uttar Pradesh,Accident,Tractor,Drunk driving,National Highways under State PWD,70,11.4671092335708,88.51788032018722,Foggy,Morning
+26-08-2023,10:05,Uttar Pradesh,Accident,Van,Drunk driving,National Highways under State PWD,9,32.929559608444265,91.55558725565757,Stormy,Morning
+15-04-2023,09:41,Rajasthan,Accident,Two-wheeler,Driving on Wrong side,National Highways under State PWD,2,17.839669954850773,73.3525139507705,Clear,Morning
+24-06-2023,12:49,Rajasthan,Accident,Truck,Over-speeding,National Highways under Other department,98,9.253689901392717,95.0261158524959,Clear,Afternoon
+26-07-2023,06:48,Madhya Pradesh,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under Other department,94,34.760481738412466,85.66941646680439,Stormy,Morning
+24-12-2023,14:41,Punjab,Accident,Two-wheeler,Driving on Wrong side,National Highways under Other department,35,10.827543334371908,84.2582828749415,Clear,Afternoon
+11-11-2023,10:27,Goa,Accident,Two-wheeler,Over-speeding,National Highways under State PWD,87,8.208438514862262,75.97664911507067,Foggy,Morning
+08-04-2023,23:35,Telangana,Fatal,Truck,Over-speeding,National Highways under Other department,82,22.96282816530695,95.3777366845715,Clear,Night
+10-04-2023,04:38,Tamil Nadu,Accident,Van,Use of Mobile Phone,National Highways under Other department,84,18.380990326090533,91.292301545806,Stormy,Night
+01-09-2023,15:34,Goa,Accident,Car,Use of Mobile Phone,National Highways under State PWD,6,9.977555130061164,86.10640286336867,Foggy,Afternoon
+17-09-2023,10:57,Uttar Pradesh,Fatal,Car,Use of Mobile Phone,National Highways under NHAI,97,30.620896036901357,79.20857943253523,Rainy,Morning
+10-04-2023,22:32,Odisha,Fatal,Car,Fatigue,National Highways under NHAI,64,10.320484533654255,71.7627975258656,Stormy,Night
+28-06-2023,04:23,Goa,Accident,Van,Driving on Wrong side,National Highways under Other department,23,8.52277142205906,84.89406315513234,Clear,Night
+11-02-2023,23:17,Karnataka,Accident,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,21,32.324762545762994,80.4600774331998,Stormy,Night
+25-07-2023,10:06,Punjab,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,79,22.81174046584095,77.44031927512832,Clear,Morning
+06-01-2023,22:52,Punjab,Accident,Truck,Drunk driving,National Highways under Other department,9,15.70136299398522,93.23107592376212,Stormy,Night
+30-10-2023,09:53,Karnataka,Fatal,Truck,Over-speeding,National Highways under State PWD,54,8.751480412261103,94.06564008526539,Foggy,Morning
+07-03-2023,03:29,West Bengal,Accident,Tractor,Drunk driving,National Highways under NHAI,71,8.903412438329847,81.39717721993026,Rainy,Night
+21-12-2023,08:11,Punjab,Fatal,Auto-rickshaw,Drunk driving,National Highways under Other department,51,32.86121738172338,75.77761867655589,Rainy,Morning
+23-12-2023,20:50,Andaman and Nicobar Island,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,73,8.795627660493835,74.27147931420579,Foggy,Evening
+29-08-2023,18:52,Karnataka,Accident,Car,Drunk driving,National Highways under NHAI,10,21.788750885934185,86.6075069768304,Rainy,Evening
+26-09-2023,14:48,Maharashtra,Fatal,Van,Over-speeding,National Highways under Other department,25,31.623442842985824,70.0217186630421,Stormy,Afternoon
+03-10-2023,03:47,Chhattisgarh,Accident,Two-wheeler,Over-speeding,National Highways under NHAI,48,19.692460045016027,72.56680607547992,Stormy,Night
+26-05-2023,02:35,Jammu and Kashmir,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under Other department,93,33.34195453337887,88.68018961529833,Rainy,Night
+18-11-2023,07:23,Delhi,Fatal,Bus,Over-speeding,National Highways under State PWD,68,31.24307539480593,84.13143977448982,Stormy,Morning
+12-05-2023,12:22,Bihar,Accident,Two-wheeler,Fatigue,National Highways under Other department,66,25.44100827625833,90.06538496861957,Stormy,Afternoon
+02-06-2023,05:42,Karnataka,Fatal,Bus,Over-speeding,National Highways under State PWD,38,28.984567152479023,82.66833018879738,Clear,Morning
+04-04-2023,11:45,Chandigarh,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,80,23.07965027451131,84.53792088694823,Clear,Morning
+22-01-2023,12:16,Gujarat,Fatal,Tractor,Driving on Wrong side,National Highways under Other department,30,8.43491578877906,80.54468179643717,Stormy,Afternoon
+14-05-2023,12:22,Jammu and Kashmir,Accident,Van,Fatigue,National Highways under NHAI,73,28.984816773236485,84.86589166031088,Rainy,Afternoon
+01-10-2023,16:15,Bihar,Fatal,Van,Fatigue,National Highways under NHAI,4,26.30043203629029,72.80394942393774,Rainy,Afternoon
+27-06-2023,09:05,Gujarat,Accident,Bus,Drunk driving,National Highways under NHAI,4,19.736520300550826,70.25171284497787,Rainy,Morning
+23-07-2023,03:30,Karnataka,Fatal,Car,Drunk driving,National Highways under Other department,99,10.190332547629632,96.5421849907837,Stormy,Night
+18-04-2023,06:20,Chhattisgarh,Fatal,Tractor,Use of Mobile Phone,National Highways under State PWD,54,27.460699878660627,95.5961268097362,Rainy,Morning
+23-01-2023,00:59,Chhattisgarh,Fatal,Car,Over-speeding,National Highways under NHAI,73,27.03494680850735,84.4268273055543,Stormy,Night
+06-02-2023,05:59,Assam,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,67,26.67934304292868,90.616220881536,Rainy,Morning
+31-01-2023,18:06,Haryana,Accident,Truck,Over-speeding,National Highways under State PWD,11,25.351050577362685,90.35547900085118,Stormy,Evening
+24-02-2023,09:38,Chhattisgarh,Fatal,Car,Drunk driving,National Highways under NHAI,9,27.34329195764535,93.70515344785193,Rainy,Morning
+11-04-2023,12:35,Andhra Pradesh,Accident,Van,Use of Mobile Phone,National Highways under Other department,85,33.14664808183679,87.49586428304106,Rainy,Afternoon
+04-09-2023,19:02,Delhi,Fatal,Two-wheeler,Fatigue,National Highways under NHAI,29,18.96040645294081,69.7045445630001,Foggy,Evening
+16-02-2023,14:39,Chandigarh,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,48,32.23677146332777,75.95329102544838,Stormy,Afternoon
+27-09-2023,21:56,Andhra Pradesh,Accident,Truck,Over-speeding,National Highways under Other department,80,8.352929169250016,68.23013052254775,Clear,Night
+01-05-2023,06:33,Delhi,Accident,Two-wheeler,Driving on Wrong side,National Highways under State PWD,70,22.763937002057457,79.65732393108509,Stormy,Morning
+13-01-2023,16:46,Telangana,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,68,29.583632153154984,69.45024999615379,Foggy,Afternoon
+21-05-2023,02:06,Chhattisgarh,Accident,Truck,Drunk driving,National Highways under Other department,31,25.904981927190413,73.81726046585312,Clear,Night
+19-04-2023,03:33,Uttar Pradesh,Fatal,Van,Driving on Wrong side,National Highways under Other department,16,17.28581132855084,73.47275420290315,Stormy,Night
+21-07-2023,17:51,Bihar,Fatal,Car,Use of Mobile Phone,National Highways under NHAI,31,19.356203241855503,92.7900531813022,Foggy,Evening
+22-03-2023,18:00,Jharkhand,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,53,18.376801855215867,72.06850644149064,Foggy,Evening
+13-05-2023,08:19,Karnataka,Accident,Tractor,Driving on Wrong side,National Highways under Other department,75,18.921526463576384,87.98079821391798,Clear,Morning
+02-08-2023,09:06,Odisha,Accident,Truck,Use of Mobile Phone,National Highways under Other department,7,9.558585932118355,77.45733648424046,Foggy,Morning
+30-11-2023,15:52,Odisha,Accident,Tractor,Fatigue,National Highways under Other department,33,21.117742982209194,79.31155752560949,Stormy,Afternoon
+10-05-2023,08:39,Uttar Pradesh,Accident,Van,Driving on Wrong side,National Highways under State PWD,34,26.21317573299564,88.03063980350225,Clear,Morning
+25-01-2023,17:04,Tamil Nadu,Fatal,Van,Drunk driving,National Highways under NHAI,84,24.89182285289247,72.00730656243414,Foggy,Evening
+01-01-2023,16:10,West Bengal,Accident,Two-wheeler,Fatigue,National Highways under State PWD,13,20.139991102723094,86.3301061209074,Foggy,Afternoon
+30-12-2023,21:51,Jammu and Kashmir,Fatal,Truck,Over-speeding,National Highways under State PWD,59,28.984177541087575,92.11392886408584,Clear,Night
+22-05-2023,01:27,Andhra Pradesh,Accident,Car,Over-speeding,National Highways under NHAI,11,24.397275662869674,88.6653547557397,Clear,Night
+24-05-2023,23:47,Punjab,Fatal,Two-wheeler,Driving on Wrong side,National Highways under NHAI,84,8.557220329349883,86.13338196259093,Clear,Night
+02-03-2023,11:32,Andhra Pradesh,Fatal,Truck,Over-speeding,National Highways under State PWD,12,25.219907795637145,76.2945847501592,Rainy,Morning
+01-10-2023,10:20,Jammu and Kashmir,Fatal,Truck,Fatigue,National Highways under NHAI,55,25.53082214518061,92.68468982261308,Rainy,Morning
+18-06-2023,21:11,Telangana,Fatal,Tractor,Drunk driving,National Highways under Other department,75,20.17719564154931,88.38936016843871,Rainy,Night
+23-09-2023,02:15,Chhattisgarh,Fatal,Van,Drunk driving,National Highways under State PWD,60,9.531212594756546,69.63890199609321,Rainy,Night
+04-06-2023,10:20,Andhra Pradesh,Fatal,Truck,Fatigue,National Highways under NHAI,43,12.159413757406595,96.47558848809197,Clear,Morning
+06-05-2023,16:44,Himachal Pradesh,Fatal,Truck,Drunk driving,National Highways under NHAI,28,34.84987156184471,70.77868406442713,Stormy,Afternoon
+25-06-2023,11:49,Andaman and Nicobar Island,Accident,Car,Over-speeding,National Highways under State PWD,94,21.011126974450878,74.14422350958473,Stormy,Morning
+04-11-2023,04:43,Goa,Accident,Car,Drunk driving,National Highways under State PWD,19,14.514401443882338,77.62835212324313,Clear,Night
+15-12-2023,20:56,Haryana,Accident,Two-wheeler,Drunk driving,National Highways under Other department,30,34.676217654105,80.86384205318643,Clear,Evening
+22-08-2023,09:03,Gujarat,Accident,Two-wheeler,Over-speeding,National Highways under NHAI,38,8.545719632396024,76.50128281529491,Rainy,Morning
+30-09-2023,21:04,Madhya Pradesh,Accident,Truck,Fatigue,National Highways under Other department,71,23.34575311653762,86.47346517406424,Stormy,Night
+01-04-2023,06:55,Madhya Pradesh,Accident,Bus,Driving on Wrong side,National Highways under Other department,46,29.40555808315616,80.77871495267095,Rainy,Morning
+11-01-2023,21:48,Arunachal Pradesh,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,4,17.142196064105143,75.72849356794197,Stormy,Night
+01-09-2023,09:04,Jammu and Kashmir,Fatal,Car,Over-speeding,National Highways under Other department,3,30.096058121222764,83.85810114572521,Foggy,Morning
+24-04-2023,03:34,Himachal Pradesh,Accident,Auto-rickshaw,Drunk driving,National Highways under NHAI,1,18.24910661090513,78.53757435986292,Rainy,Night
+02-10-2023,13:15,Himachal Pradesh,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,70,23.292869524766267,83.04781972948156,Stormy,Afternoon
+17-06-2023,22:00,Karnataka,Fatal,Bus,Over-speeding,National Highways under NHAI,42,18.416412065643016,75.29726110503162,Rainy,Night
+29-08-2023,11:48,Himachal Pradesh,Fatal,Car,Use of Mobile Phone,National Highways under State PWD,24,31.329758095689407,69.19321364646457,Foggy,Morning
+27-02-2023,19:12,Karnataka,Fatal,Truck,Drunk driving,National Highways under State PWD,35,30.028250425500328,87.42671546395039,Stormy,Evening
+01-11-2023,05:29,Odisha,Accident,Car,Drunk driving,National Highways under State PWD,26,25.34068594495797,96.48115607392009,Stormy,Morning
+27-12-2023,11:59,Assam,Accident,Tractor,Driving on Wrong side,National Highways under Other department,4,17.63881279807751,96.87588891750471,Foggy,Morning
+04-03-2023,10:05,Tamil Nadu,Accident,Van,Fatigue,National Highways under NHAI,25,9.2796394339833,87.69533465454036,Rainy,Morning
+24-10-2023,04:21,Andhra Pradesh,Fatal,Van,Driving on Wrong side,National Highways under Other department,17,27.64032511150822,82.46374326470202,Clear,Night
+11-07-2023,11:54,Odisha,Accident,Bus,Drunk driving,National Highways under NHAI,83,9.338467083023954,93.51425429710898,Foggy,Morning
+30-06-2023,07:48,Kerala,Accident,Tractor,Use of Mobile Phone,National Highways under NHAI,35,23.890017721707153,84.62125933376869,Rainy,Morning
+22-04-2023,09:12,Andaman and Nicobar Island,Accident,Two-wheeler,Drunk driving,National Highways under Other department,61,22.610100704223743,71.7245775102897,Clear,Morning
+04-04-2023,12:22,Rajasthan,Fatal,Car,Over-speeding,National Highways under NHAI,92,14.56754561956095,73.0641593653938,Stormy,Afternoon
+26-06-2023,02:58,Andhra Pradesh,Fatal,Tractor,Drunk driving,National Highways under Other department,87,32.70980421842118,84.36971741146583,Stormy,Night
+18-05-2023,18:44,Goa,Fatal,Car,Driving on Wrong side,National Highways under State PWD,61,26.66151430483308,90.84772358916149,Stormy,Evening
+03-05-2023,20:10,Rajasthan,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under Other department,95,8.251629287204395,75.20232382651588,Stormy,Evening
+30-07-2023,03:13,Jharkhand,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under NHAI,41,24.87652716660382,95.91179611469846,Foggy,Night
+22-12-2023,22:39,Assam,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,37,10.428391047478172,87.76304460625657,Clear,Night
+31-03-2023,15:26,Odisha,Fatal,Tractor,Driving on Wrong side,National Highways under NHAI,91,31.566268097838883,68.91048884492288,Rainy,Afternoon
+28-09-2023,04:16,Delhi,Accident,Tractor,Over-speeding,National Highways under NHAI,31,27.639285392441213,73.41997770104597,Stormy,Night
+07-09-2023,14:45,Tamil Nadu,Fatal,Bus,Fatigue,National Highways under NHAI,83,13.376682072946636,96.69988707214767,Clear,Afternoon
+10-01-2023,13:25,Himachal Pradesh,Fatal,Car,Driving on Wrong side,National Highways under State PWD,83,29.703695564025306,90.13781410217479,Clear,Afternoon
+22-02-2023,20:00,Punjab,Accident,Bus,Fatigue,National Highways under NHAI,80,11.099432009731352,81.0953076335615,Foggy,Evening
+16-10-2023,16:47,Karnataka,Fatal,Van,Fatigue,National Highways under NHAI,73,19.69781056599295,80.87905094257624,Rainy,Afternoon
+28-09-2023,08:12,Telangana,Fatal,Tractor,Drunk driving,National Highways under NHAI,3,19.94535995698817,71.51868834565545,Clear,Morning
+27-11-2023,21:20,Jammu and Kashmir,Accident,Van,Driving on Wrong side,National Highways under Other department,41,28.45528981189435,96.56362980544314,Clear,Night
+07-12-2023,07:58,Telangana,Fatal,Truck,Fatigue,National Highways under State PWD,58,8.007794836387372,90.91559768550084,Foggy,Morning
+05-11-2023,04:24,Telangana,Fatal,Bus,Over-speeding,National Highways under NHAI,43,19.83326112195822,91.7314417998605,Rainy,Night
+02-09-2023,04:03,Odisha,Accident,Auto-rickshaw,Over-speeding,National Highways under State PWD,80,26.922092042070208,76.70017553279207,Stormy,Night
+21-02-2023,05:15,Delhi,Fatal,Car,Fatigue,National Highways under NHAI,93,29.535593693523865,87.37295916706326,Rainy,Morning
+17-08-2023,02:40,Karnataka,Accident,Truck,Fatigue,National Highways under Other department,94,34.48536786983563,92.73600074284437,Rainy,Night
+29-01-2023,06:53,Jammu and Kashmir,Accident,Tractor,Over-speeding,National Highways under State PWD,96,14.548525501657888,80.06847496355248,Foggy,Morning
+21-03-2023,14:52,Tamil Nadu,Fatal,Two-wheeler,Drunk driving,National Highways under NHAI,27,21.77171325791422,90.5331350857863,Stormy,Afternoon
+05-08-2023,00:27,Tamil Nadu,Accident,Car,Driving on Wrong side,National Highways under State PWD,33,13.154657363907502,69.75148289131302,Foggy,Night
+10-04-2023,02:22,Chhattisgarh,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,44,30.04673150108324,94.89364105676398,Rainy,Night
+14-11-2023,14:35,Arunachal Pradesh,Accident,Two-wheeler,Driving on Wrong side,National Highways under Other department,37,28.573443850753815,76.38635856227577,Foggy,Afternoon
+24-05-2023,17:38,Delhi,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,74,26.07379136385084,79.31391915875636,Stormy,Evening
+23-10-2023,14:53,Arunachal Pradesh,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,25,32.62042350053275,70.07433846902958,Stormy,Afternoon
+02-01-2023,19:00,Tamil Nadu,Fatal,Car,Fatigue,National Highways under State PWD,52,17.465231709938767,72.74738396499066,Stormy,Evening
+18-04-2023,09:52,Assam,Accident,Auto-rickshaw,Over-speeding,National Highways under Other department,59,20.079003814768626,73.73359644796861,Clear,Morning
+03-05-2023,09:50,Chandigarh,Accident,Car,Drunk driving,National Highways under NHAI,10,16.22430584415111,88.79569173849205,Stormy,Morning
+25-12-2023,07:17,Maharashtra,Fatal,Bus,Over-speeding,National Highways under State PWD,77,14.067431915886527,84.99664415914407,Rainy,Morning
+23-01-2023,23:44,Andhra Pradesh,Accident,Van,Over-speeding,National Highways under State PWD,96,18.054483280999285,68.61439447984579,Foggy,Night
+02-02-2023,09:01,Assam,Accident,Van,Use of Mobile Phone,National Highways under State PWD,24,21.98593665565744,90.45541472219658,Stormy,Morning
+25-08-2023,15:55,Rajasthan,Accident,Van,Driving on Wrong side,National Highways under NHAI,71,15.267225361094688,92.71922193140668,Rainy,Afternoon
+18-10-2023,03:24,Maharashtra,Accident,Two-wheeler,Use of Mobile Phone,National Highways under NHAI,46,22.339578132684565,68.75638243596555,Stormy,Night
+03-08-2023,08:50,Maharashtra,Fatal,Car,Drunk driving,National Highways under Other department,78,29.984851887452002,92.23158735207527,Stormy,Morning
+23-04-2023,15:24,Maharashtra,Accident,Two-wheeler,Driving on Wrong side,National Highways under NHAI,28,15.150442327495043,81.52255985389839,Stormy,Afternoon
+08-10-2023,02:37,Uttar Pradesh,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under Other department,33,19.17087588631531,78.4226678684102,Clear,Night
+05-06-2023,11:09,Rajasthan,Accident,Bus,Fatigue,National Highways under NHAI,20,29.02545991961564,94.36469090742203,Stormy,Morning
+03-04-2023,12:02,West Bengal,Accident,Car,Fatigue,National Highways under State PWD,10,32.773005744024985,83.29500525409338,Foggy,Afternoon
+13-05-2023,09:25,Andhra Pradesh,Accident,Van,Driving on Wrong side,National Highways under State PWD,22,18.72303034812403,69.47417550332223,Foggy,Morning
+02-08-2023,03:27,Arunachal Pradesh,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,45,19.075385547714376,78.07213962442844,Stormy,Night
+20-11-2023,15:45,Telangana,Accident,Truck,Drunk driving,National Highways under State PWD,98,31.08224626727681,81.54650114429026,Clear,Afternoon
+26-09-2023,00:29,Maharashtra,Accident,Bus,Use of Mobile Phone,National Highways under State PWD,8,31.318866734904752,92.51687543761804,Rainy,Night
+24-08-2023,04:58,Gujarat,Fatal,Car,Use of Mobile Phone,National Highways under Other department,39,12.916277901074606,77.24563356288137,Stormy,Night
+10-01-2023,10:19,Bihar,Fatal,Truck,Use of Mobile Phone,National Highways under State PWD,97,14.379872528675303,80.99438798014651,Foggy,Morning
+07-01-2023,20:10,Andaman and Nicobar Island,Accident,Two-wheeler,Over-speeding,National Highways under Other department,93,8.491892950238844,86.72785285099535,Stormy,Evening
+11-04-2023,00:01,Chhattisgarh,Fatal,Truck,Driving on Wrong side,National Highways under NHAI,17,25.50329714446888,95.38511166250676,Foggy,Night
+26-10-2023,13:49,Odisha,Accident,Bus,Drunk driving,National Highways under State PWD,48,19.30893362762921,95.32647963525785,Stormy,Afternoon
+06-06-2023,03:36,Andaman and Nicobar Island,Accident,Two-wheeler,Over-speeding,National Highways under Other department,45,17.177903870291928,79.15788139620946,Foggy,Night
+13-06-2023,14:29,Odisha,Fatal,Truck,Over-speeding,National Highways under State PWD,20,24.99480547398785,95.59210675666876,Foggy,Afternoon
+09-10-2023,10:34,West Bengal,Accident,Truck,Driving on Wrong side,National Highways under State PWD,44,19.019344485086524,80.60349617511349,Stormy,Morning
+06-08-2023,09:40,Assam,Fatal,Truck,Driving on Wrong side,National Highways under NHAI,82,31.94364256119621,70.46353177843017,Foggy,Morning
+13-02-2023,01:48,Goa,Accident,Bus,Driving on Wrong side,National Highways under NHAI,33,13.445564605194182,75.68800233803229,Rainy,Night
+07-06-2023,12:10,Haryana,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,93,26.40504669208436,74.39263401314116,Rainy,Afternoon
+06-06-2023,06:19,Madhya Pradesh,Fatal,Car,Use of Mobile Phone,National Highways under NHAI,8,31.829594056437447,90.69899063692783,Rainy,Morning
+08-10-2023,00:12,West Bengal,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,46,26.20415142447108,95.3060880788583,Rainy,Night
+12-11-2023,07:01,Chhattisgarh,Fatal,Car,Driving on Wrong side,National Highways under State PWD,42,28.40839098470214,88.889620156049,Rainy,Morning
+08-10-2023,15:10,Goa,Fatal,Car,Fatigue,National Highways under Other department,72,9.624749495630128,68.90061038612885,Foggy,Afternoon
+10-09-2023,06:29,Haryana,Fatal,Truck,Over-speeding,National Highways under Other department,67,15.361578802699603,81.44426967175929,Foggy,Morning
+02-07-2023,07:02,Andaman and Nicobar Island,Accident,Car,Fatigue,National Highways under NHAI,11,29.803963431603986,93.29600726216792,Stormy,Morning
+07-04-2023,07:30,Delhi,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,23,32.700229514431236,94.00401146805704,Clear,Morning
+26-12-2023,23:24,Arunachal Pradesh,Accident,Car,Over-speeding,National Highways under NHAI,42,20.60775347938224,71.89944536698388,Stormy,Night
+13-09-2023,23:18,Karnataka,Accident,Two-wheeler,Driving on Wrong side,National Highways under NHAI,71,16.340116378488858,77.16845836616783,Stormy,Night
+30-08-2023,14:53,Gujarat,Fatal,Car,Fatigue,National Highways under State PWD,2,22.820767740059445,76.57214606944903,Foggy,Afternoon
+14-07-2023,03:12,Rajasthan,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,62,26.295844173396066,74.04967194646561,Clear,Night
+01-02-2023,01:39,Haryana,Accident,Truck,Use of Mobile Phone,National Highways under NHAI,6,21.00277452979421,82.31943063441295,Foggy,Night
+06-02-2023,20:22,Odisha,Accident,Van,Drunk driving,National Highways under NHAI,79,26.09507854356942,80.08996732845583,Stormy,Evening
+31-05-2023,07:38,Uttar Pradesh,Accident,Two-wheeler,Over-speeding,National Highways under Other department,15,18.134093492817087,83.1520805650007,Stormy,Morning
+08-07-2023,02:23,West Bengal,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under NHAI,35,14.187644259099088,71.24531330500977,Foggy,Night
+21-05-2023,23:02,Chhattisgarh,Accident,Two-wheeler,Use of Mobile Phone,National Highways under NHAI,16,11.402163961513734,73.71820588985733,Rainy,Night
+29-01-2023,13:51,Jharkhand,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,2,25.255665797370987,74.6428635968389,Foggy,Afternoon
+18-07-2023,05:58,Chandigarh,Fatal,Truck,Drunk driving,National Highways under Other department,42,26.897430659793265,78.67030692135502,Foggy,Morning
+07-05-2023,19:47,Rajasthan,Fatal,Car,Drunk driving,National Highways under Other department,91,11.285733725207628,85.66274595336863,Stormy,Evening
+20-01-2023,23:59,Delhi,Accident,Two-wheeler,Drunk driving,National Highways under State PWD,11,9.150466441174206,80.64911474028648,Foggy,Night
+22-07-2023,05:06,Jharkhand,Accident,Tractor,Over-speeding,National Highways under Other department,97,30.722792793051813,80.19768492332128,Foggy,Morning
+06-12-2023,08:04,Odisha,Accident,Car,Over-speeding,National Highways under Other department,76,21.094248885689005,95.03484463555496,Foggy,Morning
+27-12-2023,14:43,Odisha,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,73,15.596469155410913,72.15467508020168,Stormy,Afternoon
+26-12-2023,00:49,Chhattisgarh,Accident,Truck,Use of Mobile Phone,National Highways under Other department,29,24.45907833835396,96.98706332539004,Clear,Night
+04-08-2023,14:50,Chhattisgarh,Accident,Truck,Drunk driving,National Highways under Other department,70,12.159535376302252,82.4929746044089,Foggy,Afternoon
+16-10-2023,02:41,West Bengal,Accident,Tractor,Fatigue,National Highways under Other department,11,17.709370135131103,75.91910044428049,Rainy,Night
+12-09-2023,00:21,Rajasthan,Accident,Two-wheeler,Use of Mobile Phone,National Highways under Other department,51,12.712287494938103,94.05365466801243,Foggy,Night
+31-07-2023,23:44,Chandigarh,Accident,Car,Drunk driving,National Highways under Other department,34,13.824168034312175,72.45968945414492,Rainy,Night
+16-10-2023,06:03,Delhi,Fatal,Two-wheeler,Fatigue,National Highways under State PWD,92,12.448892486557558,84.26313379670212,Stormy,Morning
+21-01-2023,02:53,Tamil Nadu,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,64,9.784898203678134,70.4061973424699,Clear,Night
+31-01-2023,06:51,Karnataka,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under NHAI,78,25.833783403890756,79.08056428005025,Stormy,Morning
+24-05-2023,01:54,Madhya Pradesh,Accident,Tractor,Fatigue,National Highways under State PWD,27,34.355362268494886,82.99898851556657,Stormy,Night
+04-10-2023,03:29,Delhi,Accident,Bus,Use of Mobile Phone,National Highways under NHAI,41,15.367509448291813,80.6393479516779,Stormy,Night
+22-03-2023,22:46,Chandigarh,Accident,Bus,Over-speeding,National Highways under NHAI,79,9.615889128002692,68.60096322284095,Stormy,Night
+14-12-2023,05:01,Maharashtra,Accident,Van,Use of Mobile Phone,National Highways under NHAI,31,9.064022518558831,71.34478160721889,Stormy,Morning
+24-09-2023,23:18,Punjab,Fatal,Car,Over-speeding,National Highways under NHAI,85,12.474114267507916,78.41755857795332,Stormy,Night
+27-07-2023,14:29,Assam,Fatal,Auto-rickshaw,Over-speeding,National Highways under State PWD,75,16.57848316873589,91.47546896142309,Clear,Afternoon
+28-10-2023,00:36,Arunachal Pradesh,Fatal,Van,Over-speeding,National Highways under Other department,30,18.210271130397576,70.52477993944905,Rainy,Night
+07-04-2023,00:00,Jammu and Kashmir,Accident,Bus,Fatigue,National Highways under Other department,37,11.102060668207308,84.47468662420121,Clear,Night
+01-11-2023,15:08,Bihar,Accident,Two-wheeler,Drunk driving,National Highways under NHAI,42,15.439650830320108,83.6249261270323,Stormy,Afternoon
+06-09-2023,02:56,Chandigarh,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,54,10.50052206907613,80.31278412015673,Rainy,Night
+06-03-2023,13:26,Jammu and Kashmir,Accident,Tractor,Driving on Wrong side,National Highways under NHAI,95,21.27739345536036,74.26300141178154,Stormy,Afternoon
+16-01-2023,23:00,Gujarat,Accident,Two-wheeler,Driving on Wrong side,National Highways under NHAI,94,9.484257573754226,82.17219929120411,Clear,Night
+11-07-2023,03:44,Delhi,Accident,Bus,Driving on Wrong side,National Highways under State PWD,72,17.20688786864684,95.8497041232884,Stormy,Night
+16-01-2023,10:27,Chandigarh,Accident,Two-wheeler,Fatigue,National Highways under State PWD,40,14.621516344408473,74.72928233547165,Rainy,Morning
+18-02-2023,20:20,Jammu and Kashmir,Accident,Car,Use of Mobile Phone,National Highways under Other department,7,27.50287697615154,94.92698889064077,Stormy,Evening
+09-06-2023,06:34,Tamil Nadu,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,42,27.47059933080972,73.13620055481748,Rainy,Morning
+23-03-2023,13:10,Assam,Fatal,Van,Drunk driving,National Highways under State PWD,71,24.661271616836707,76.08220758963628,Foggy,Afternoon
+02-10-2023,01:48,Tamil Nadu,Accident,Van,Over-speeding,National Highways under NHAI,8,19.14813740863467,75.93185148013292,Clear,Night
+26-11-2023,00:29,Uttar Pradesh,Accident,Car,Use of Mobile Phone,National Highways under State PWD,98,14.158493389369163,77.30919959493627,Stormy,Night
+23-01-2023,15:00,Punjab,Fatal,Auto-rickshaw,Fatigue,National Highways under NHAI,68,15.531515705960299,86.70307900432971,Clear,Afternoon
+03-12-2023,18:21,Punjab,Accident,Bus,Drunk driving,National Highways under NHAI,7,14.324634269772613,69.16883218225706,Rainy,Evening
+20-05-2023,12:40,Gujarat,Accident,Two-wheeler,Drunk driving,National Highways under State PWD,6,26.28368053529758,69.55055099215566,Clear,Afternoon
+27-03-2023,14:14,West Bengal,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under State PWD,20,15.373007382088417,91.48258475911825,Foggy,Afternoon
+13-07-2023,15:02,Himachal Pradesh,Accident,Bus,Driving on Wrong side,National Highways under State PWD,99,28.267529692101327,91.81989687850086,Rainy,Afternoon
+16-03-2023,05:05,Punjab,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,41,29.331810716553733,69.45500245577261,Foggy,Morning
+19-08-2023,11:23,Haryana,Accident,Bus,Over-speeding,National Highways under State PWD,76,23.061309483822832,88.90513598759519,Rainy,Morning
+04-11-2023,06:19,Arunachal Pradesh,Fatal,Tractor,Driving on Wrong side,National Highways under State PWD,4,31.954611401325213,84.17774311383282,Rainy,Morning
+11-05-2023,22:56,Andhra Pradesh,Accident,Bus,Drunk driving,National Highways under NHAI,70,23.55612187657358,94.3270584415154,Clear,Night
+03-04-2023,20:59,Tamil Nadu,Accident,Van,Fatigue,National Highways under NHAI,43,22.605610119136145,80.3562035705502,Foggy,Evening
+23-09-2023,12:36,Tamil Nadu,Accident,Two-wheeler,Over-speeding,National Highways under Other department,35,11.362670618458385,72.57821228567433,Stormy,Afternoon
+21-07-2023,17:14,Haryana,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,23,15.551279342217438,85.11004566684636,Stormy,Evening
+29-09-2023,19:59,Goa,Accident,Tractor,Fatigue,National Highways under NHAI,54,19.809877188674513,91.04924598608866,Clear,Evening
+08-11-2023,01:03,West Bengal,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,5,18.203248161877667,81.1885478514918,Stormy,Night
+16-07-2023,16:19,Karnataka,Fatal,Car,Driving on Wrong side,National Highways under Other department,64,33.46657009395393,69.00306440360029,Clear,Afternoon
+19-11-2023,12:45,Haryana,Accident,Bus,Drunk driving,National Highways under Other department,12,13.575821688355173,94.67652291123024,Foggy,Afternoon
+09-05-2023,21:45,Karnataka,Accident,Car,Over-speeding,National Highways under NHAI,62,31.63437030316979,70.34468381206581,Clear,Night
+17-08-2023,15:45,Uttar Pradesh,Accident,Truck,Driving on Wrong side,National Highways under Other department,22,12.02632608797867,78.61696807367478,Rainy,Afternoon
+09-01-2023,22:01,Arunachal Pradesh,Accident,Two-wheeler,Driving on Wrong side,National Highways under NHAI,33,25.931905923587284,72.51314766465174,Clear,Night
+19-01-2023,19:41,Jammu and Kashmir,Accident,Bus,Fatigue,National Highways under State PWD,80,12.952889264237896,89.62291026495079,Rainy,Evening
+21-06-2023,06:31,Kerala,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,2,26.150382291915648,87.35329267978197,Rainy,Morning
+26-10-2023,14:49,Bihar,Fatal,Van,Fatigue,National Highways under State PWD,45,17.72350343164455,77.86205420604628,Stormy,Afternoon
+09-12-2023,11:31,Rajasthan,Accident,Bus,Driving on Wrong side,National Highways under NHAI,76,11.560716949666864,69.48945657618862,Rainy,Morning
+23-10-2023,11:06,Punjab,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,75,26.956403389895456,91.94740878652078,Stormy,Morning
+04-05-2023,05:30,Madhya Pradesh,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,7,32.29733107607475,81.75768473897526,Foggy,Morning
+15-10-2023,00:00,Chandigarh,Fatal,Bus,Fatigue,National Highways under Other department,42,32.86876833021011,91.22755511180611,Rainy,Night
+10-03-2023,12:56,Madhya Pradesh,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,9,16.65985813286675,84.931300482446,Rainy,Afternoon
+28-06-2023,14:48,Haryana,Fatal,Truck,Driving on Wrong side,National Highways under Other department,65,13.782417193882644,91.60183743419223,Foggy,Afternoon
+08-02-2023,18:04,Gujarat,Accident,Van,Use of Mobile Phone,National Highways under NHAI,43,20.34479841880848,75.92225373374153,Clear,Evening
+29-05-2023,01:31,West Bengal,Fatal,Tractor,Drunk driving,National Highways under Other department,26,13.255910288015023,76.53330444503467,Stormy,Night
+13-05-2023,03:20,Telangana,Fatal,Two-wheeler,Fatigue,National Highways under NHAI,99,20.726506526585894,75.84178992862745,Rainy,Night
+16-03-2023,05:24,Andaman and Nicobar Island,Accident,Van,Use of Mobile Phone,National Highways under State PWD,9,20.197167131946983,76.69145398902143,Stormy,Morning
+25-03-2023,18:51,Haryana,Fatal,Bus,Drunk driving,National Highways under NHAI,54,31.984661642197405,75.59097099494215,Foggy,Evening
+02-12-2023,15:24,Kerala,Fatal,Van,Use of Mobile Phone,National Highways under Other department,66,10.714577195390085,75.65852164598522,Foggy,Afternoon
+07-11-2023,21:58,Karnataka,Fatal,Two-wheeler,Driving on Wrong side,National Highways under State PWD,46,29.40420308495663,83.97515571140421,Stormy,Night
+30-06-2023,12:12,West Bengal,Accident,Two-wheeler,Over-speeding,National Highways under State PWD,72,10.69181910526629,83.92361960553053,Stormy,Afternoon
+24-02-2023,15:35,Rajasthan,Accident,Truck,Driving on Wrong side,National Highways under NHAI,50,34.214994761889045,72.9020003159792,Foggy,Afternoon
+26-05-2023,04:21,Chhattisgarh,Fatal,Bus,Use of Mobile Phone,National Highways under State PWD,41,13.606050911334787,82.03206316060424,Foggy,Night
+20-07-2023,03:32,Himachal Pradesh,Accident,Auto-rickshaw,Fatigue,National Highways under Other department,21,18.97869130679302,85.59799813892454,Rainy,Night
+10-03-2023,14:45,Madhya Pradesh,Accident,Van,Use of Mobile Phone,National Highways under Other department,82,18.396638264499547,96.16375072068527,Clear,Afternoon
+07-08-2023,00:31,Jharkhand,Fatal,Van,Drunk driving,National Highways under Other department,16,8.542776852473022,92.7662061725361,Clear,Night
+10-05-2023,03:46,Kerala,Accident,Van,Driving on Wrong side,National Highways under NHAI,89,31.729643075335666,93.7251701483302,Stormy,Night
+03-06-2023,16:30,Madhya Pradesh,Fatal,Tractor,Fatigue,National Highways under State PWD,59,32.54112090897335,82.77511226529255,Stormy,Afternoon
+09-11-2023,05:18,Uttar Pradesh,Fatal,Auto-rickshaw,Drunk driving,National Highways under Other department,28,25.49773497785915,81.92297111785824,Rainy,Morning
+14-02-2023,17:46,Andaman and Nicobar Island,Accident,Bus,Driving on Wrong side,National Highways under NHAI,7,23.857248227869984,88.48534504980393,Clear,Evening
+06-06-2023,17:02,West Bengal,Fatal,Van,Driving on Wrong side,National Highways under State PWD,97,30.396278391921157,89.03759667246909,Foggy,Evening
+10-01-2023,18:36,Jammu and Kashmir,Fatal,Car,Drunk driving,National Highways under State PWD,19,15.446543044305628,75.98281410863744,Stormy,Evening
+26-01-2023,05:57,Assam,Fatal,Two-wheeler,Driving on Wrong side,National Highways under NHAI,48,31.840355094316635,92.82139482981923,Clear,Morning
+01-05-2023,10:33,Telangana,Fatal,Auto-rickshaw,Fatigue,National Highways under NHAI,85,14.660513206890842,75.20200847922231,Foggy,Morning
+05-04-2023,17:20,Bihar,Accident,Bus,Fatigue,National Highways under Other department,15,23.900517200631537,82.78784090812223,Stormy,Evening
+23-12-2023,21:30,Andhra Pradesh,Accident,Two-wheeler,Use of Mobile Phone,National Highways under Other department,51,13.765469279768901,84.23815530780114,Rainy,Night
+18-02-2023,13:31,Chandigarh,Fatal,Van,Use of Mobile Phone,National Highways under Other department,59,24.636031097281435,91.09507911231171,Rainy,Afternoon
+08-02-2023,15:42,Himachal Pradesh,Fatal,Truck,Use of Mobile Phone,National Highways under Other department,45,14.334035030786392,85.42373822803293,Rainy,Afternoon
+08-10-2023,08:30,Odisha,Fatal,Van,Fatigue,National Highways under State PWD,90,29.100063671967288,80.22843534728445,Stormy,Morning
+30-01-2023,21:33,Maharashtra,Fatal,Truck,Drunk driving,National Highways under Other department,1,24.03024484207252,87.45551206787809,Stormy,Night
+22-12-2023,01:54,Punjab,Fatal,Truck,Driving on Wrong side,National Highways under Other department,72,24.181952681763654,91.24208996453481,Rainy,Night
+17-05-2023,16:14,Goa,Fatal,Van,Over-speeding,National Highways under NHAI,59,28.85905856464909,85.43596728528166,Stormy,Afternoon
+29-12-2023,21:05,Tamil Nadu,Accident,Truck,Drunk driving,National Highways under State PWD,11,23.872488984796107,96.80455470163949,Foggy,Night
+27-04-2023,23:33,Jammu and Kashmir,Fatal,Tractor,Over-speeding,National Highways under Other department,54,22.41236000661157,83.89962092767784,Stormy,Night
+21-11-2023,12:02,Tamil Nadu,Accident,Van,Over-speeding,National Highways under NHAI,28,16.669612060145027,89.13447280488116,Stormy,Afternoon
+06-08-2023,13:50,Arunachal Pradesh,Fatal,Van,Over-speeding,National Highways under State PWD,88,10.005168620888213,86.91442276300023,Foggy,Afternoon
+10-12-2023,14:12,Haryana,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under State PWD,4,11.679611126777289,69.41904856338519,Clear,Afternoon
+11-03-2023,01:48,Arunachal Pradesh,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,59,28.020910973479328,79.64863210938046,Foggy,Night
+10-06-2023,13:08,Haryana,Fatal,Two-wheeler,Over-speeding,National Highways under Other department,58,23.52097805892177,77.92342559479864,Clear,Afternoon
+25-07-2023,23:05,Chandigarh,Accident,Truck,Driving on Wrong side,National Highways under State PWD,78,25.470909008230922,81.9887856245049,Clear,Night
+30-05-2023,17:00,Chhattisgarh,Fatal,Truck,Over-speeding,National Highways under State PWD,47,10.167084291928544,72.40527715990592,Foggy,Evening
+23-12-2023,17:16,Bihar,Fatal,Tractor,Drunk driving,National Highways under State PWD,41,14.605171196280574,69.6420987994511,Foggy,Evening
+15-03-2023,11:51,Assam,Fatal,Van,Fatigue,National Highways under State PWD,63,29.090178370751342,96.02804246589407,Rainy,Morning
+25-10-2023,09:51,Maharashtra,Accident,Car,Fatigue,National Highways under State PWD,66,31.621964272279627,94.41125511957384,Stormy,Morning
+31-10-2023,18:32,Himachal Pradesh,Accident,Two-wheeler,Fatigue,National Highways under State PWD,64,17.884393194613345,82.41777720916215,Rainy,Evening
+29-04-2023,14:39,Chandigarh,Fatal,Auto-rickshaw,Fatigue,National Highways under NHAI,57,31.628277441353287,92.28512453924932,Clear,Afternoon
+14-03-2023,13:14,Odisha,Accident,Bus,Drunk driving,National Highways under State PWD,83,23.78197563920886,73.52633660701873,Stormy,Afternoon
+24-01-2023,06:16,Telangana,Accident,Tractor,Drunk driving,National Highways under State PWD,26,22.76535654728421,95.2198256256654,Clear,Morning
+19-11-2023,02:57,Delhi,Fatal,Truck,Use of Mobile Phone,National Highways under NHAI,15,32.806204501157566,85.95836143921096,Stormy,Night
+24-11-2023,11:38,Chandigarh,Fatal,Tractor,Over-speeding,National Highways under Other department,42,32.888609756784845,89.01398462767725,Clear,Morning
+21-01-2023,18:40,Bihar,Fatal,Two-wheeler,Driving on Wrong side,National Highways under State PWD,40,18.475162397001924,95.59163860119092,Stormy,Evening
+21-11-2023,18:34,Uttar Pradesh,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,95,22.770490055512035,92.04331742458368,Stormy,Evening
+09-02-2023,09:12,Maharashtra,Fatal,Auto-rickshaw,Drunk driving,National Highways under Other department,66,24.83810928592503,95.67491255738227,Clear,Morning
+07-11-2023,07:01,Gujarat,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,85,16.467232993302552,84.6396354736402,Rainy,Morning
+15-03-2023,15:00,Chhattisgarh,Fatal,Truck,Use of Mobile Phone,National Highways under State PWD,55,20.97555626695532,75.01631590821383,Clear,Afternoon
+05-01-2023,02:46,Goa,Accident,Truck,Driving on Wrong side,National Highways under State PWD,45,12.062701264827119,83.18266121491821,Stormy,Night
+24-02-2023,01:58,Punjab,Accident,Van,Driving on Wrong side,National Highways under Other department,96,13.94679728618633,73.87562389909708,Foggy,Night
+25-09-2023,05:18,Jharkhand,Accident,Van,Driving on Wrong side,National Highways under State PWD,6,25.692962955093616,69.33297330983889,Rainy,Morning
+09-08-2023,22:26,Andhra Pradesh,Fatal,Van,Over-speeding,National Highways under NHAI,77,12.833928827508569,83.74031724645361,Rainy,Night
+22-11-2023,00:59,Jharkhand,Fatal,Truck,Drunk driving,National Highways under State PWD,20,34.22441208868521,87.2376079823552,Foggy,Night
+10-12-2023,05:42,Chhattisgarh,Fatal,Bus,Use of Mobile Phone,National Highways under NHAI,26,13.537990113882648,71.91385726305928,Stormy,Morning
+11-03-2023,03:05,Punjab,Accident,Tractor,Over-speeding,National Highways under Other department,98,8.089237108407264,96.24514569590976,Foggy,Night
+15-02-2023,10:21,Goa,Fatal,Tractor,Driving on Wrong side,National Highways under Other department,6,20.0385872156902,88.94275377352041,Foggy,Morning
+26-09-2023,16:54,Assam,Fatal,Van,Fatigue,National Highways under State PWD,97,12.912585226439376,81.39676814863131,Foggy,Afternoon
+14-02-2023,14:56,Haryana,Accident,Auto-rickshaw,Over-speeding,National Highways under Other department,9,27.8342818732471,71.58201974191205,Stormy,Afternoon
+08-08-2023,18:09,Maharashtra,Accident,Auto-rickshaw,Drunk driving,National Highways under NHAI,5,20.512938365991264,88.05090437825996,Rainy,Evening
+11-06-2023,23:04,Rajasthan,Fatal,Tractor,Drunk driving,National Highways under NHAI,96,26.355688182379748,68.72720069816282,Foggy,Night
+16-07-2023,13:52,Andaman and Nicobar Island,Accident,Truck,Driving on Wrong side,National Highways under State PWD,8,15.332257792176009,75.23401842907778,Rainy,Afternoon
+05-12-2023,17:04,Andaman and Nicobar Island,Accident,Van,Driving on Wrong side,National Highways under State PWD,64,20.791874700152356,96.96599165938554,Clear,Evening
+13-08-2023,10:51,Madhya Pradesh,Fatal,Tractor,Over-speeding,National Highways under Other department,80,11.601964322055148,86.71946062233806,Rainy,Morning
+05-04-2023,05:34,Chhattisgarh,Accident,Truck,Fatigue,National Highways under Other department,39,18.961635201626258,78.00791614769653,Clear,Morning
+18-04-2023,09:54,Rajasthan,Fatal,Truck,Drunk driving,National Highways under Other department,82,13.527220155524613,80.00227101633477,Clear,Morning
+19-07-2023,22:56,Tamil Nadu,Accident,Car,Fatigue,National Highways under NHAI,35,18.01698983871094,80.07220256517729,Foggy,Night
+07-07-2023,07:58,Punjab,Accident,Two-wheeler,Fatigue,National Highways under State PWD,16,14.427105403417265,92.38931680688097,Clear,Morning
+15-06-2023,04:55,Andaman and Nicobar Island,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,7,23.583735322292043,86.18798175495891,Rainy,Night
+03-11-2023,20:30,Uttar Pradesh,Fatal,Auto-rickshaw,Drunk driving,National Highways under State PWD,76,10.205833694613402,92.67972488584891,Rainy,Evening
+22-10-2023,11:10,Himachal Pradesh,Accident,Auto-rickshaw,Drunk driving,National Highways under NHAI,39,33.757231576823564,76.7292886084129,Clear,Morning
+18-11-2023,17:11,Goa,Fatal,Tractor,Drunk driving,National Highways under NHAI,5,32.71487008565178,68.11444541938184,Stormy,Evening
+14-08-2023,03:29,Arunachal Pradesh,Accident,Bus,Use of Mobile Phone,National Highways under Other department,55,15.716172272795209,85.39985021677873,Rainy,Night
+10-05-2023,09:57,Tamil Nadu,Fatal,Auto-rickshaw,Drunk driving,National Highways under State PWD,29,31.741996398993447,88.39914849108102,Rainy,Morning
+11-08-2023,17:18,Andaman and Nicobar Island,Fatal,Bus,Driving on Wrong side,National Highways under Other department,69,33.651560699093906,96.56305172201976,Clear,Evening
+19-04-2023,21:19,Andhra Pradesh,Accident,Two-wheeler,Use of Mobile Phone,National Highways under Other department,41,16.311417809845565,71.66891822600921,Rainy,Night
+10-09-2023,20:05,Tamil Nadu,Fatal,Bus,Fatigue,National Highways under Other department,73,9.197840060385076,84.98523448300426,Rainy,Evening
+15-11-2023,11:29,Chhattisgarh,Accident,Truck,Drunk driving,National Highways under Other department,59,26.61783018426487,78.79073511487267,Stormy,Morning
+15-10-2023,00:15,Jammu and Kashmir,Fatal,Two-wheeler,Over-speeding,National Highways under State PWD,28,22.482762219148576,95.766377707065,Clear,Night
+08-07-2023,13:37,Odisha,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,26,26.463702947391454,70.8851490805439,Clear,Afternoon
+08-06-2023,13:49,Jharkhand,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,11,10.790336153137801,92.25423154852271,Stormy,Afternoon
+16-07-2023,02:37,Maharashtra,Accident,Tractor,Fatigue,National Highways under Other department,79,8.917794552347546,87.67312763467037,Rainy,Night
+01-07-2023,14:55,Gujarat,Accident,Bus,Over-speeding,National Highways under State PWD,35,12.263774691275476,87.08260032371463,Foggy,Afternoon
+28-05-2023,09:15,Tamil Nadu,Accident,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,21,27.79930841205964,89.57002247558228,Foggy,Morning
+14-04-2023,22:48,Uttar Pradesh,Fatal,Car,Use of Mobile Phone,National Highways under State PWD,12,24.56634567468496,70.08191478376393,Foggy,Night
+23-08-2023,15:57,Karnataka,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,26,15.997274598824628,93.80109753120585,Clear,Afternoon
+31-03-2023,08:57,West Bengal,Accident,Tractor,Driving on Wrong side,National Highways under State PWD,35,31.46113140145408,68.38731525395964,Rainy,Morning
+08-07-2023,01:14,Jharkhand,Accident,Tractor,Use of Mobile Phone,National Highways under Other department,54,30.201380363696376,71.91779531492871,Rainy,Night
+04-02-2023,04:33,Andhra Pradesh,Fatal,Car,Driving on Wrong side,National Highways under Other department,96,13.625980973360846,80.20426446319836,Foggy,Night
+14-05-2023,23:22,Jharkhand,Accident,Truck,Fatigue,National Highways under Other department,89,34.062706837830504,68.02364240073213,Foggy,Night
+06-07-2023,00:34,Rajasthan,Accident,Bus,Fatigue,National Highways under NHAI,46,15.747507697146318,83.35299823878125,Foggy,Night
+27-02-2023,04:32,Karnataka,Fatal,Bus,Driving on Wrong side,National Highways under State PWD,19,22.047328636150255,84.39183221040437,Clear,Night
+23-06-2023,13:34,Goa,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,61,11.179988734278638,69.67561955030784,Foggy,Afternoon
+28-10-2023,22:20,Madhya Pradesh,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,36,32.973275143957665,77.23222439443198,Foggy,Night
+27-11-2023,22:43,Arunachal Pradesh,Fatal,Auto-rickshaw,Over-speeding,National Highways under State PWD,31,10.50145994611002,89.49313376754468,Rainy,Night
+24-03-2023,03:57,Madhya Pradesh,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,51,23.950309312000606,74.16206759752868,Stormy,Night
+12-08-2023,09:55,Haryana,Accident,Tractor,Drunk driving,National Highways under Other department,86,16.36457011247186,91.14312772570139,Clear,Morning
+23-06-2023,21:05,Goa,Fatal,Auto-rickshaw,Fatigue,National Highways under Other department,58,24.33267247134218,96.27666805480192,Foggy,Night
+22-09-2023,14:00,Odisha,Fatal,Bus,Drunk driving,National Highways under Other department,15,16.222641737147868,76.26074300876046,Stormy,Afternoon
+22-10-2023,08:36,Telangana,Accident,Van,Over-speeding,National Highways under State PWD,81,34.38289192127949,73.16478754641712,Rainy,Morning
+15-11-2023,23:58,Jammu and Kashmir,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,62,10.812333527173989,77.96026938520414,Stormy,Night
+28-12-2023,07:15,Maharashtra,Accident,Car,Driving on Wrong side,National Highways under State PWD,27,28.028175680553645,92.87556685450883,Rainy,Morning
+24-12-2023,14:48,Himachal Pradesh,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under NHAI,27,29.488387143900972,95.20415152218736,Rainy,Afternoon
+14-02-2023,09:18,Bihar,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,26,16.30820482664189,78.23351873538628,Foggy,Morning
+27-08-2023,05:03,Chhattisgarh,Accident,Truck,Drunk driving,National Highways under Other department,95,10.493278910643403,78.62629837204942,Foggy,Morning
+24-03-2023,09:28,Kerala,Fatal,Truck,Drunk driving,National Highways under State PWD,82,28.422019913104577,79.94197153118013,Stormy,Morning
+18-06-2023,01:57,Kerala,Fatal,Truck,Driving on Wrong side,National Highways under NHAI,70,11.741573895852502,73.25368633830143,Clear,Night
+01-10-2023,23:21,Delhi,Accident,Truck,Use of Mobile Phone,National Highways under Other department,67,32.517795060241774,75.82250324283103,Foggy,Night
+14-01-2023,03:03,Assam,Fatal,Two-wheeler,Fatigue,National Highways under NHAI,75,28.140013293509337,86.31532260810386,Foggy,Night
+22-04-2023,16:30,Himachal Pradesh,Fatal,Truck,Drunk driving,National Highways under State PWD,61,8.187085505833274,72.33972165599869,Stormy,Afternoon
+25-01-2023,04:09,Punjab,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,35,29.96226075522641,85.22115739837906,Rainy,Night
+29-12-2023,04:28,Andhra Pradesh,Accident,Two-wheeler,Fatigue,National Highways under Other department,60,27.747070056159853,84.5447230016856,Foggy,Night
+29-07-2023,17:29,Punjab,Accident,Van,Over-speeding,National Highways under NHAI,2,10.88631243325614,78.09018345189791,Rainy,Evening
+02-07-2023,15:10,Jharkhand,Accident,Tractor,Fatigue,National Highways under NHAI,96,27.190568597338693,83.31673114231688,Foggy,Afternoon
+18-08-2023,22:02,Kerala,Fatal,Car,Fatigue,National Highways under Other department,42,33.65553398412441,69.46449030212911,Foggy,Night
+27-01-2023,03:54,Bihar,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,47,27.011603934739824,78.4245566697903,Clear,Night
+31-10-2023,13:20,Jharkhand,Fatal,Bus,Fatigue,National Highways under State PWD,14,17.426904242272833,88.33688795793596,Stormy,Afternoon
+13-01-2023,20:47,Uttar Pradesh,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under NHAI,76,33.85035158505171,88.21300050348059,Rainy,Evening
+04-07-2023,09:11,Uttar Pradesh,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,49,32.44527141542487,80.13974610614537,Stormy,Morning
+08-11-2023,12:12,Maharashtra,Accident,Truck,Fatigue,National Highways under Other department,84,13.997018722060641,78.07304342170707,Clear,Afternoon
+30-10-2023,20:06,Himachal Pradesh,Fatal,Bus,Over-speeding,National Highways under Other department,47,9.602404294544757,73.09320015877135,Foggy,Evening
+17-06-2023,15:30,Tamil Nadu,Fatal,Car,Use of Mobile Phone,National Highways under State PWD,100,26.77842933019505,94.74791650747795,Foggy,Afternoon
+16-05-2023,08:10,Arunachal Pradesh,Accident,Van,Driving on Wrong side,National Highways under Other department,72,9.059292471534054,96.38992403124261,Stormy,Morning
+26-11-2023,04:21,Jammu and Kashmir,Accident,Bus,Over-speeding,National Highways under State PWD,30,27.319838526629336,75.11426525944452,Rainy,Night
+22-01-2023,20:08,Karnataka,Fatal,Van,Fatigue,National Highways under State PWD,27,31.937831964577057,96.79867840580295,Foggy,Evening
+05-12-2023,08:44,Uttar Pradesh,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,100,13.66906133920806,90.92139351197366,Foggy,Morning
+07-07-2023,03:29,Kerala,Fatal,Car,Use of Mobile Phone,National Highways under Other department,41,9.79517871335559,86.8707509429797,Clear,Night
+25-07-2023,09:46,Bihar,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,19,11.687064002714363,90.6261812763146,Clear,Morning
+13-09-2023,04:16,Jammu and Kashmir,Fatal,Tractor,Drunk driving,National Highways under Other department,78,23.406291251227373,83.56470501202239,Clear,Night
+20-10-2023,23:47,Delhi,Fatal,Truck,Driving on Wrong side,National Highways under NHAI,67,12.029497520303561,79.29657725213201,Stormy,Night
+12-06-2023,12:51,Uttar Pradesh,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,25,10.354141805153933,70.11248367161024,Rainy,Afternoon
+02-04-2023,04:40,Chandigarh,Fatal,Two-wheeler,Over-speeding,National Highways under State PWD,92,22.535961745005064,96.16011280510878,Foggy,Night
+26-07-2023,03:54,Andaman and Nicobar Island,Fatal,Auto-rickshaw,Drunk driving,National Highways under Other department,73,31.5371840198417,75.00374871605895,Foggy,Night
+05-07-2023,14:01,Uttar Pradesh,Accident,Bus,Use of Mobile Phone,National Highways under NHAI,73,10.909258780410397,96.52709098500128,Clear,Afternoon
+27-04-2023,12:37,Gujarat,Accident,Tractor,Drunk driving,National Highways under NHAI,82,10.60415533122672,71.90558836779682,Clear,Afternoon
+07-04-2023,17:51,Rajasthan,Accident,Van,Drunk driving,National Highways under State PWD,31,32.28308477738879,79.69144453977736,Rainy,Evening
+22-11-2023,18:58,Punjab,Accident,Bus,Over-speeding,National Highways under State PWD,80,21.15677535045422,79.21466075456794,Rainy,Evening
+16-06-2023,19:23,Maharashtra,Accident,Car,Fatigue,National Highways under NHAI,51,8.524359442320593,73.53124486517738,Rainy,Evening
+05-05-2023,17:12,Andaman and Nicobar Island,Fatal,Van,Over-speeding,National Highways under State PWD,83,34.28893093439415,73.91558900153333,Rainy,Evening
+12-04-2023,07:17,Goa,Accident,Tractor,Driving on Wrong side,National Highways under Other department,45,23.70664834221111,69.71681802423849,Stormy,Morning
+14-06-2023,18:46,Chandigarh,Accident,Car,Drunk driving,National Highways under Other department,8,8.216942429813951,78.29546160418911,Stormy,Evening
+14-04-2023,04:29,Karnataka,Fatal,Two-wheeler,Over-speeding,National Highways under NHAI,36,15.38650270619064,71.37255792931794,Stormy,Night
+04-05-2023,16:02,West Bengal,Accident,Truck,Drunk driving,National Highways under NHAI,21,15.985375725032831,82.497601080934,Clear,Afternoon
+16-12-2023,21:54,Bihar,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,70,26.776922628230523,83.8522247203395,Rainy,Night
+22-09-2023,04:10,Karnataka,Accident,Car,Use of Mobile Phone,National Highways under State PWD,92,10.339252795475364,94.47990009990203,Clear,Night
+12-06-2023,04:13,Telangana,Fatal,Truck,Over-speeding,National Highways under NHAI,11,30.28158956401017,68.89499146967697,Stormy,Night
+28-10-2023,03:19,Bihar,Fatal,Bus,Fatigue,National Highways under Other department,30,18.325059222446654,69.87156972280587,Foggy,Night
+19-06-2023,16:37,Maharashtra,Accident,Bus,Drunk driving,National Highways under NHAI,97,25.33226093803141,83.72274866202346,Clear,Afternoon
+10-02-2023,07:48,Jammu and Kashmir,Fatal,Auto-rickshaw,Over-speeding,National Highways under State PWD,55,27.287418701251084,71.82933658313021,Stormy,Morning
+26-08-2023,10:20,Madhya Pradesh,Fatal,Van,Driving on Wrong side,National Highways under State PWD,29,16.923267004094818,92.81782379748289,Rainy,Morning
+17-01-2023,22:59,Jammu and Kashmir,Fatal,Car,Drunk driving,National Highways under NHAI,73,24.023710225744985,68.40562886987706,Rainy,Night
+05-10-2023,14:19,Madhya Pradesh,Fatal,Bus,Drunk driving,National Highways under State PWD,97,32.88736509044083,83.24418125368793,Clear,Afternoon
+24-07-2023,19:52,Assam,Fatal,Auto-rickshaw,Drunk driving,National Highways under NHAI,39,34.33590120619863,90.90578896403849,Foggy,Evening
+20-11-2023,06:35,Bihar,Accident,Car,Driving on Wrong side,National Highways under Other department,61,13.848093788172969,89.65775403215204,Stormy,Morning
+28-03-2023,10:24,West Bengal,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,92,17.72919477524367,72.12220999948879,Stormy,Morning
+26-06-2023,08:58,Himachal Pradesh,Accident,Truck,Over-speeding,National Highways under State PWD,28,13.95548359821337,92.2300879656967,Clear,Morning
+09-02-2023,15:41,Telangana,Accident,Bus,Use of Mobile Phone,National Highways under NHAI,16,15.929441791648786,69.53702589375675,Stormy,Afternoon
+16-06-2023,11:12,Chandigarh,Accident,Van,Drunk driving,National Highways under State PWD,79,9.871302552809308,70.62141265984597,Stormy,Morning
+02-11-2023,09:33,Gujarat,Fatal,Truck,Use of Mobile Phone,National Highways under Other department,86,9.282744200172441,92.96740442608676,Stormy,Morning
+10-05-2023,10:30,Madhya Pradesh,Fatal,Bus,Use of Mobile Phone,National Highways under NHAI,14,11.418851636607108,73.06566485881211,Foggy,Morning
+01-12-2023,00:53,Andhra Pradesh,Fatal,Bus,Drunk driving,National Highways under Other department,22,27.103171994213394,82.9652260093728,Clear,Night
+05-10-2023,10:51,Maharashtra,Fatal,Auto-rickshaw,Drunk driving,National Highways under NHAI,17,8.381839663279822,87.31421980493313,Foggy,Morning
+10-12-2023,06:31,Jammu and Kashmir,Accident,Two-wheeler,Drunk driving,National Highways under Other department,33,25.307963758366366,83.60620740290503,Foggy,Morning
+02-09-2023,10:59,Chandigarh,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,2,20.767370578177747,76.31404031256217,Foggy,Morning
+16-04-2023,13:59,Haryana,Fatal,Two-wheeler,Drunk driving,National Highways under Other department,93,21.400899772951217,80.83271260148817,Stormy,Afternoon
+30-07-2023,15:56,Andaman and Nicobar Island,Fatal,Car,Fatigue,National Highways under State PWD,88,18.64482907201635,93.71333315061898,Rainy,Afternoon
+09-08-2023,00:00,Uttar Pradesh,Fatal,Van,Drunk driving,National Highways under Other department,52,13.574208058650596,80.43634052930251,Clear,Night
+14-06-2023,19:41,Karnataka,Fatal,Bus,Fatigue,National Highways under State PWD,16,28.3623746613457,77.71416675758644,Clear,Evening
+15-04-2023,06:18,Tamil Nadu,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under Other department,92,12.396313232707229,82.02041308377528,Clear,Morning
+24-10-2023,23:09,Himachal Pradesh,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,76,13.27349320365868,68.49198152173678,Clear,Night
+20-04-2023,21:34,Chhattisgarh,Fatal,Tractor,Driving on Wrong side,National Highways under NHAI,77,33.43884148403118,94.9689655844284,Stormy,Night
+05-12-2023,11:33,West Bengal,Fatal,Bus,Drunk driving,National Highways under NHAI,12,10.390083491536945,74.7708483515768,Clear,Morning
+20-07-2023,07:24,Punjab,Accident,Two-wheeler,Driving on Wrong side,National Highways under State PWD,42,20.206344238365602,89.35611118507498,Foggy,Morning
+22-09-2023,18:14,Punjab,Fatal,Two-wheeler,Fatigue,National Highways under NHAI,64,13.021652459170898,77.04917545840101,Rainy,Evening
+08-03-2023,03:31,Haryana,Fatal,Tractor,Over-speeding,National Highways under State PWD,2,33.68269911437194,86.52779614117469,Rainy,Night
+22-09-2023,04:12,Jammu and Kashmir,Fatal,Truck,Over-speeding,National Highways under NHAI,35,31.364026300443044,92.04004383017359,Foggy,Night
+31-03-2023,16:32,Punjab,Fatal,Truck,Fatigue,National Highways under State PWD,87,18.452945081281307,76.42239072421823,Clear,Afternoon
+05-08-2023,21:43,Chandigarh,Fatal,Tractor,Driving on Wrong side,National Highways under State PWD,29,8.203006709044498,78.75444993099728,Clear,Night
+04-04-2023,03:40,Tamil Nadu,Accident,Auto-rickshaw,Drunk driving,National Highways under State PWD,41,11.57159655393639,89.57333733226213,Stormy,Night
+28-08-2023,16:44,Andaman and Nicobar Island,Accident,Truck,Drunk driving,National Highways under State PWD,69,12.549815649918337,88.34204785958758,Clear,Afternoon
+18-02-2023,20:42,Rajasthan,Fatal,Bus,Use of Mobile Phone,National Highways under Other department,72,11.582789878123537,73.23371288659055,Foggy,Evening
+21-01-2023,19:38,Gujarat,Fatal,Car,Drunk driving,National Highways under NHAI,27,17.968434557311443,69.21569549632277,Stormy,Evening
+30-01-2023,06:58,Telangana,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,14,22.614801022651875,85.36321310903841,Clear,Morning
+08-08-2023,23:53,Arunachal Pradesh,Fatal,Van,Drunk driving,National Highways under Other department,50,29.57498763047549,82.84380886333513,Rainy,Night
+07-02-2023,06:10,Gujarat,Fatal,Car,Fatigue,National Highways under State PWD,13,22.96700964488802,92.97559442695214,Rainy,Morning
+30-11-2023,12:49,Chandigarh,Fatal,Car,Use of Mobile Phone,National Highways under NHAI,95,17.7975372005533,88.6105385429951,Stormy,Afternoon
+09-05-2023,21:07,Assam,Fatal,Two-wheeler,Fatigue,National Highways under NHAI,42,16.167062960594045,90.11851952231376,Foggy,Night
+19-03-2023,23:26,Chhattisgarh,Fatal,Two-wheeler,Over-speeding,National Highways under State PWD,95,26.885214852209547,78.09412781150536,Clear,Night
+18-01-2023,15:32,Punjab,Accident,Car,Over-speeding,National Highways under Other department,71,16.694753682609914,68.0101712569167,Rainy,Afternoon
+12-10-2023,04:38,Gujarat,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,30,27.717175172150927,78.06344788339486,Rainy,Night
+05-03-2023,13:31,Rajasthan,Accident,Car,Fatigue,National Highways under Other department,37,25.223133130193247,83.02311897274048,Clear,Afternoon
+12-04-2023,17:48,Telangana,Accident,Tractor,Over-speeding,National Highways under State PWD,35,32.38018069743385,96.14956307882838,Clear,Evening
+01-12-2023,07:44,Telangana,Accident,Truck,Fatigue,National Highways under State PWD,11,18.78551374145384,76.77834343703378,Foggy,Morning
+11-03-2023,01:04,Haryana,Accident,Truck,Driving on Wrong side,National Highways under State PWD,65,8.218772790840328,86.88331682058673,Stormy,Night
+23-04-2023,18:04,Andaman and Nicobar Island,Fatal,Truck,Over-speeding,National Highways under NHAI,42,26.039816910998635,70.19028584818862,Foggy,Evening
+16-06-2023,11:26,Maharashtra,Fatal,Van,Driving on Wrong side,National Highways under NHAI,33,9.586232858469835,79.8600066397423,Stormy,Morning
+30-11-2023,16:54,Gujarat,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under State PWD,100,33.2059273194357,75.5966723428177,Stormy,Afternoon
+11-12-2023,00:09,Odisha,Fatal,Van,Driving on Wrong side,National Highways under State PWD,30,10.312721085289137,85.7231698310364,Clear,Night
+08-10-2023,00:04,Karnataka,Fatal,Truck,Drunk driving,National Highways under Other department,46,17.913333869503127,82.53721812463172,Foggy,Night
+16-08-2023,02:02,Maharashtra,Accident,Tractor,Over-speeding,National Highways under NHAI,58,31.52502466583214,68.4126200047601,Rainy,Night
+12-08-2023,05:22,Jammu and Kashmir,Accident,Bus,Driving on Wrong side,National Highways under Other department,32,18.31931022695147,76.82922903648449,Rainy,Morning
+20-04-2023,15:23,Assam,Fatal,Truck,Driving on Wrong side,National Highways under NHAI,92,27.477141742318473,82.51210292581528,Clear,Afternoon
+20-08-2023,02:56,Himachal Pradesh,Fatal,Truck,Over-speeding,National Highways under NHAI,74,18.36301033359378,68.46690890280469,Clear,Night
+01-09-2023,03:02,Punjab,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,91,26.600579344124494,71.7383542188608,Stormy,Night
+21-02-2023,13:48,Arunachal Pradesh,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,22,20.066289262558964,96.55028072429835,Clear,Afternoon
+15-07-2023,04:42,Maharashtra,Accident,Bus,Use of Mobile Phone,National Highways under NHAI,3,15.287043679967882,86.94002113432106,Rainy,Night
+09-07-2023,02:07,Chandigarh,Accident,Van,Use of Mobile Phone,National Highways under State PWD,8,13.213215297382838,72.89962513649411,Foggy,Night
+16-07-2023,10:04,Karnataka,Fatal,Car,Over-speeding,National Highways under State PWD,48,24.41833668555346,89.33694750946734,Rainy,Morning
+17-02-2023,04:19,Rajasthan,Fatal,Car,Fatigue,National Highways under NHAI,79,32.88897852824876,94.32829853457655,Rainy,Night
+26-08-2023,19:53,Chandigarh,Fatal,Van,Over-speeding,National Highways under Other department,11,21.352885508214015,89.7091846308954,Rainy,Evening
+26-03-2023,19:07,Telangana,Accident,Tractor,Driving on Wrong side,National Highways under NHAI,68,9.72218638281701,95.02162769972259,Foggy,Evening
+20-06-2023,00:07,Himachal Pradesh,Accident,Truck,Fatigue,National Highways under Other department,17,8.881844223913989,89.82809559797559,Foggy,Night
+30-12-2023,11:25,Kerala,Accident,Two-wheeler,Drunk driving,National Highways under Other department,94,27.335588130920705,95.3319621838489,Rainy,Morning
+09-01-2023,07:06,Arunachal Pradesh,Fatal,Bus,Drunk driving,National Highways under NHAI,54,18.042757661642966,93.66022455970656,Rainy,Morning
+12-11-2023,19:11,Jharkhand,Accident,Two-wheeler,Fatigue,National Highways under Other department,50,19.06503084792633,80.47792657734239,Foggy,Evening
+14-10-2023,12:33,Chhattisgarh,Accident,Bus,Fatigue,National Highways under NHAI,100,26.73519169651539,84.02556469124258,Foggy,Afternoon
+02-07-2023,12:19,Madhya Pradesh,Fatal,Truck,Driving on Wrong side,National Highways under State PWD,19,9.127712029985373,68.62433025427275,Foggy,Afternoon
+23-06-2023,20:01,Delhi,Accident,Car,Fatigue,National Highways under Other department,93,19.940641848224814,74.0267722972663,Rainy,Evening
+18-09-2023,12:19,Punjab,Fatal,Van,Drunk driving,National Highways under NHAI,37,20.92160134513491,73.30361860193702,Clear,Afternoon
+04-05-2023,17:52,Madhya Pradesh,Fatal,Two-wheeler,Over-speeding,National Highways under State PWD,20,13.843807984321973,91.51771846959042,Stormy,Evening
+11-12-2023,03:17,Kerala,Accident,Car,Driving on Wrong side,National Highways under State PWD,62,21.710230272494037,81.47425777004982,Rainy,Night
+09-09-2023,15:25,Goa,Fatal,Car,Fatigue,National Highways under Other department,57,18.14699171729061,94.62541220872424,Clear,Afternoon
+26-03-2023,12:46,Chhattisgarh,Fatal,Van,Fatigue,National Highways under NHAI,85,11.57054696084349,77.33400234773563,Rainy,Afternoon
+11-02-2023,14:30,Gujarat,Fatal,Van,Drunk driving,National Highways under Other department,56,12.316021760942942,72.29948153623242,Rainy,Afternoon
+14-11-2023,01:26,Chhattisgarh,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,74,28.86850106518669,88.26669125857696,Foggy,Night
+17-06-2023,19:14,Karnataka,Fatal,Car,Drunk driving,National Highways under State PWD,55,34.94712390283665,90.79030282700973,Foggy,Evening
+25-08-2023,12:56,Jharkhand,Accident,Tractor,Driving on Wrong side,National Highways under Other department,7,14.653839772823623,72.73807017968248,Stormy,Afternoon
+24-07-2023,01:52,Maharashtra,Fatal,Auto-rickshaw,Drunk driving,National Highways under State PWD,46,11.426749406995803,79.16340442323347,Rainy,Night
+12-08-2023,07:38,Gujarat,Accident,Tractor,Over-speeding,National Highways under State PWD,96,8.616002730405206,86.7600442668017,Stormy,Morning
+18-11-2023,01:39,Tamil Nadu,Accident,Truck,Drunk driving,National Highways under State PWD,63,31.386519721433043,70.83542422755615,Rainy,Night
+04-12-2023,10:29,Madhya Pradesh,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,72,19.688507520841593,85.4352116097101,Rainy,Morning
+15-11-2023,03:47,Telangana,Accident,Truck,Over-speeding,National Highways under Other department,20,16.99164065939726,94.80485459295603,Clear,Night
+12-11-2023,14:07,Arunachal Pradesh,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under State PWD,28,31.782306556048393,95.7819054765993,Rainy,Afternoon
+26-04-2023,06:18,Kerala,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,5,11.04719718869646,76.60346089034384,Rainy,Morning
+02-11-2023,11:39,Karnataka,Fatal,Car,Driving on Wrong side,National Highways under State PWD,62,19.176299777107026,86.59508719231077,Foggy,Morning
+09-05-2023,02:49,Arunachal Pradesh,Accident,Bus,Use of Mobile Phone,National Highways under Other department,96,34.58330261043852,87.4123476597553,Clear,Night
+03-12-2023,18:23,Delhi,Accident,Van,Drunk driving,National Highways under NHAI,96,32.1214724002171,79.22800464989054,Rainy,Evening
+06-01-2023,23:21,Andhra Pradesh,Accident,Truck,Use of Mobile Phone,National Highways under NHAI,49,8.00010411378368,90.43454231972217,Stormy,Night
+11-06-2023,11:16,Jammu and Kashmir,Accident,Tractor,Driving on Wrong side,National Highways under NHAI,95,17.750847445446304,75.81907741772854,Rainy,Morning
+19-12-2023,02:01,West Bengal,Fatal,Van,Drunk driving,National Highways under Other department,71,33.408294115700315,70.7907673531976,Rainy,Night
+24-03-2023,20:01,Jammu and Kashmir,Fatal,Two-wheeler,Fatigue,National Highways under NHAI,13,15.32618753364232,73.81825048351249,Stormy,Evening
+01-10-2023,23:27,Delhi,Fatal,Van,Drunk driving,National Highways under NHAI,80,17.6130028191212,81.79998937116628,Foggy,Night
+03-06-2023,00:44,Kerala,Fatal,Auto-rickshaw,Fatigue,National Highways under State PWD,78,31.421994428395365,94.54603203797981,Stormy,Night
+21-05-2023,12:27,Maharashtra,Fatal,Two-wheeler,Over-speeding,National Highways under NHAI,45,10.461633115057406,73.36807410803485,Rainy,Afternoon
+24-10-2023,01:05,Jharkhand,Accident,Bus,Fatigue,National Highways under NHAI,88,27.785537809372304,89.12691188319333,Rainy,Night
+14-04-2023,21:23,Goa,Accident,Tractor,Drunk driving,National Highways under State PWD,51,18.91469276713665,73.09764379342438,Stormy,Night
+09-06-2023,11:37,Andaman and Nicobar Island,Accident,Tractor,Fatigue,National Highways under NHAI,44,30.231883267103207,83.6313610655651,Rainy,Morning
+03-04-2023,01:24,Madhya Pradesh,Accident,Bus,Over-speeding,National Highways under Other department,27,28.490230647967405,95.69221504654695,Foggy,Night
+20-08-2023,12:09,Assam,Fatal,Van,Over-speeding,National Highways under NHAI,73,28.16497030698868,90.91103278211068,Clear,Afternoon
+09-09-2023,12:12,Jharkhand,Fatal,Truck,Drunk driving,National Highways under State PWD,14,18.753373718310645,77.61438428343993,Clear,Afternoon
+09-01-2023,11:22,Goa,Accident,Car,Over-speeding,National Highways under Other department,71,31.04912940048533,79.49313266197663,Clear,Morning
+23-10-2023,12:04,Arunachal Pradesh,Fatal,Auto-rickshaw,Driving on Wrong side,National Highways under State PWD,32,15.21086434819265,84.46982781621145,Foggy,Afternoon
+08-03-2023,13:28,Bihar,Accident,Two-wheeler,Driving on Wrong side,National Highways under Other department,11,19.005871846994516,81.13622441243596,Foggy,Afternoon
+27-05-2023,06:33,Chandigarh,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,64,31.193136285818007,88.79212010558874,Rainy,Morning
+20-10-2023,07:31,Assam,Accident,Auto-rickshaw,Fatigue,National Highways under Other department,61,11.740746314078926,84.48783961875598,Stormy,Morning
+13-06-2023,09:05,Karnataka,Accident,Tractor,Fatigue,National Highways under Other department,43,10.330151866175846,94.89551676491533,Stormy,Morning
+04-04-2023,09:39,Rajasthan,Accident,Car,Driving on Wrong side,National Highways under Other department,73,24.56965829511355,84.63214446039478,Stormy,Morning
+22-06-2023,05:04,Gujarat,Fatal,Two-wheeler,Over-speeding,National Highways under Other department,96,22.774453181899105,90.71868206397457,Stormy,Morning
+30-05-2023,23:07,Andhra Pradesh,Accident,Van,Fatigue,National Highways under NHAI,57,16.20533804654638,80.56995730014218,Foggy,Night
+06-07-2023,11:18,Himachal Pradesh,Fatal,Truck,Fatigue,National Highways under State PWD,10,30.545170903578438,87.50316921152233,Foggy,Morning
+04-06-2023,19:22,Andaman and Nicobar Island,Fatal,Truck,Use of Mobile Phone,National Highways under State PWD,32,14.84858019388652,72.29836397322583,Stormy,Evening
+09-09-2023,01:57,Maharashtra,Fatal,Truck,Driving on Wrong side,National Highways under NHAI,92,18.973822161328336,85.08022320075801,Stormy,Night
+28-06-2023,11:51,Kerala,Accident,Two-wheeler,Use of Mobile Phone,National Highways under Other department,75,8.920494152509285,79.39424669228906,Foggy,Morning
+27-01-2023,01:07,Jammu and Kashmir,Accident,Bus,Over-speeding,National Highways under Other department,68,31.892645855699232,70.80043871281092,Foggy,Night
+15-03-2023,15:18,Haryana,Fatal,Bus,Driving on Wrong side,National Highways under NHAI,55,24.57476844819832,68.09922249099264,Stormy,Afternoon
+24-07-2023,11:33,Arunachal Pradesh,Accident,Van,Drunk driving,National Highways under NHAI,60,14.43564908376711,79.61320524917903,Clear,Morning
+04-03-2023,03:20,Karnataka,Fatal,Bus,Fatigue,National Highways under Other department,37,18.141027136780686,94.53294485530056,Rainy,Night
+04-06-2023,19:59,Rajasthan,Accident,Auto-rickshaw,Drunk driving,National Highways under Other department,31,22.35391662334569,76.35901526896785,Foggy,Evening
+08-01-2023,21:28,Odisha,Fatal,Truck,Use of Mobile Phone,National Highways under State PWD,35,31.45392711538746,93.44933658575769,Rainy,Night
+26-11-2023,20:42,Chhattisgarh,Accident,Car,Fatigue,National Highways under State PWD,3,34.78615477487217,89.22036927291906,Rainy,Evening
+10-01-2023,09:51,Punjab,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,48,15.239630402129956,90.11766503486174,Foggy,Morning
+10-03-2023,04:37,Punjab,Fatal,Tractor,Use of Mobile Phone,National Highways under NHAI,94,12.964282834806937,69.2032874643002,Clear,Night
+28-10-2023,12:18,Arunachal Pradesh,Accident,Van,Driving on Wrong side,National Highways under Other department,30,11.99613010071084,93.73866316269562,Stormy,Afternoon
+20-09-2023,03:13,Chhattisgarh,Accident,Car,Driving on Wrong side,National Highways under NHAI,32,9.166851060834666,90.92495003924985,Clear,Night
+03-03-2023,12:45,Odisha,Fatal,Auto-rickshaw,Drunk driving,National Highways under Other department,9,34.55891971047787,68.10546935106514,Stormy,Afternoon
+05-11-2023,04:43,Haryana,Fatal,Bus,Drunk driving,National Highways under NHAI,63,26.07267633172314,72.16788046344193,Stormy,Night
+05-10-2023,10:56,West Bengal,Fatal,Van,Driving on Wrong side,National Highways under Other department,41,31.194683770465407,86.93534122714614,Rainy,Morning
+12-04-2023,22:39,Andhra Pradesh,Accident,Truck,Fatigue,National Highways under State PWD,62,22.05757348665056,79.67757116245124,Foggy,Night
+28-04-2023,13:59,Gujarat,Accident,Two-wheeler,Over-speeding,National Highways under Other department,58,23.1794688374816,76.77001638045857,Stormy,Afternoon
+12-10-2023,19:50,Andhra Pradesh,Fatal,Bus,Driving on Wrong side,National Highways under State PWD,8,20.971413714089746,71.62707874562608,Rainy,Evening
+16-08-2023,19:20,Punjab,Fatal,Van,Fatigue,National Highways under Other department,52,13.420132508583249,84.40117992502718,Foggy,Evening
+21-10-2023,11:23,Maharashtra,Fatal,Tractor,Over-speeding,National Highways under NHAI,27,13.220350182226671,78.5173088334841,Stormy,Morning
+18-02-2023,00:42,Uttar Pradesh,Accident,Two-wheeler,Fatigue,National Highways under NHAI,63,10.412572111168153,75.00240988824288,Foggy,Night
+21-11-2023,23:55,Odisha,Accident,Car,Drunk driving,National Highways under State PWD,87,22.998987953344468,70.88241361866667,Foggy,Night
+07-04-2023,15:45,Bihar,Fatal,Car,Drunk driving,National Highways under State PWD,61,18.71265549074237,75.94579055945837,Stormy,Afternoon
+08-09-2023,02:34,West Bengal,Accident,Auto-rickshaw,Fatigue,National Highways under NHAI,28,23.09632194689805,72.7372843005765,Foggy,Night
+28-05-2023,13:49,Goa,Fatal,Auto-rickshaw,Over-speeding,National Highways under State PWD,81,25.351057476996836,79.45679997289628,Clear,Afternoon
+21-02-2023,04:19,Uttar Pradesh,Accident,Truck,Use of Mobile Phone,National Highways under NHAI,91,26.021415930284174,70.0760080183776,Stormy,Night
+12-10-2023,18:51,Karnataka,Accident,Auto-rickshaw,Drunk driving,National Highways under State PWD,68,20.955831580333584,82.73348758094888,Clear,Evening
+01-08-2023,16:43,Tamil Nadu,Fatal,Bus,Fatigue,National Highways under State PWD,89,11.611248879572205,91.83823442115738,Rainy,Afternoon
+14-08-2023,15:44,Delhi,Fatal,Auto-rickshaw,Over-speeding,National Highways under NHAI,45,29.38029920045645,81.89715376908923,Foggy,Afternoon
+29-08-2023,08:03,Tamil Nadu,Fatal,Truck,Over-speeding,National Highways under State PWD,63,26.705413387704947,86.3073163720053,Rainy,Morning
+20-01-2023,04:34,Chandigarh,Accident,Tractor,Use of Mobile Phone,National Highways under NHAI,25,29.533577945825936,83.2655763952891,Foggy,Night
+26-08-2023,13:04,Goa,Fatal,Bus,Over-speeding,National Highways under NHAI,86,24.86631877137946,78.960197379232,Foggy,Afternoon
+11-02-2023,23:02,Chandigarh,Accident,Car,Drunk driving,National Highways under State PWD,72,22.57162648013294,80.83495453416452,Clear,Night
+28-06-2023,00:45,Punjab,Fatal,Two-wheeler,Over-speeding,National Highways under NHAI,11,33.943224876888294,87.2636437842763,Foggy,Night
+04-10-2023,22:38,Telangana,Fatal,Two-wheeler,Drunk driving,National Highways under NHAI,52,12.403049100952563,68.45530455236869,Foggy,Night
+29-12-2023,03:08,Uttar Pradesh,Accident,Tractor,Use of Mobile Phone,National Highways under NHAI,78,8.01331304739001,81.38309686883449,Foggy,Night
+06-08-2023,05:01,Jammu and Kashmir,Accident,Auto-rickshaw,Over-speeding,National Highways under NHAI,66,22.209529627376497,92.3938881145993,Stormy,Morning
+24-05-2023,07:15,Andaman and Nicobar Island,Accident,Truck,Use of Mobile Phone,National Highways under NHAI,10,17.946780418223927,93.55799873274019,Stormy,Morning
+19-03-2023,23:10,Jammu and Kashmir,Accident,Car,Use of Mobile Phone,National Highways under Other department,47,22.643990408953727,94.24641657640754,Rainy,Night
+19-02-2023,20:50,Gujarat,Accident,Bus,Fatigue,National Highways under NHAI,6,14.179268920462835,77.95306923060431,Stormy,Evening
+01-09-2023,02:26,Maharashtra,Accident,Two-wheeler,Over-speeding,National Highways under State PWD,52,12.057862796758211,69.34472443060122,Rainy,Night
+27-10-2023,15:35,Rajasthan,Accident,Two-wheeler,Drunk driving,National Highways under Other department,66,30.538982906932365,95.64836563989144,Stormy,Afternoon
+14-06-2023,11:57,Chhattisgarh,Accident,Bus,Over-speeding,National Highways under State PWD,39,9.137794301301119,77.10186162159013,Clear,Morning
+29-04-2023,12:10,Uttar Pradesh,Fatal,Two-wheeler,Over-speeding,National Highways under State PWD,85,10.691191081270972,76.91278092019718,Stormy,Afternoon
+09-03-2023,19:47,Haryana,Accident,Van,Drunk driving,National Highways under State PWD,72,22.9511442032355,95.77053021105627,Stormy,Evening
+04-12-2023,15:49,Jammu and Kashmir,Accident,Van,Driving on Wrong side,National Highways under State PWD,33,21.40138237329083,83.82882396142831,Clear,Afternoon
+10-05-2023,03:40,Arunachal Pradesh,Accident,Car,Drunk driving,National Highways under Other department,81,12.245751441295727,76.45751957111628,Foggy,Night
+14-02-2023,03:04,Tamil Nadu,Fatal,Two-wheeler,Drunk driving,National Highways under NHAI,30,22.544867880263254,71.9404580749213,Foggy,Night
+19-11-2023,00:56,Bihar,Fatal,Auto-rickshaw,Drunk driving,National Highways under State PWD,9,16.316193874827587,75.5754986738316,Rainy,Night
+06-09-2023,03:56,Bihar,Accident,Two-wheeler,Driving on Wrong side,National Highways under State PWD,93,10.13674303089849,77.31233813422672,Rainy,Night
+04-09-2023,20:19,Bihar,Accident,Car,Fatigue,National Highways under State PWD,10,10.23666543814593,78.93385231956566,Stormy,Evening
+13-01-2023,20:03,Assam,Fatal,Van,Fatigue,National Highways under Other department,31,27.07365077536461,74.71088518624951,Clear,Evening
+19-06-2023,07:39,Himachal Pradesh,Accident,Truck,Drunk driving,National Highways under NHAI,41,14.322745591412847,69.71921888222474,Foggy,Morning
+03-05-2023,11:29,Uttar Pradesh,Fatal,Two-wheeler,Driving on Wrong side,National Highways under Other department,63,20.231237227007306,69.38049477885235,Stormy,Morning
+22-09-2023,20:30,Jharkhand,Fatal,Tractor,Over-speeding,National Highways under Other department,54,29.908203156548897,89.72586507217108,Rainy,Evening
+03-08-2023,09:26,Punjab,Accident,Bus,Over-speeding,National Highways under NHAI,49,34.79400708385289,83.78520886931061,Rainy,Morning
+08-10-2023,22:15,Jammu and Kashmir,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,45,12.084647686768438,78.76789087869729,Stormy,Night
+28-02-2023,16:44,Punjab,Fatal,Tractor,Over-speeding,National Highways under Other department,93,34.81667863790335,93.7428467507119,Rainy,Afternoon
+02-07-2023,22:07,Delhi,Accident,Tractor,Fatigue,National Highways under State PWD,24,31.60700331919086,68.79928745083329,Clear,Night
+20-08-2023,08:01,Gujarat,Accident,Car,Driving on Wrong side,National Highways under Other department,1,29.68718566703782,72.55080313800396,Foggy,Morning
+31-08-2023,19:27,Assam,Accident,Car,Drunk driving,National Highways under Other department,54,32.441603702733076,80.32480500892902,Clear,Evening
+21-01-2023,04:50,Andhra Pradesh,Fatal,Two-wheeler,Driving on Wrong side,National Highways under NHAI,2,15.426475488885544,92.30879169964285,Clear,Night
+26-02-2023,16:43,Maharashtra,Fatal,Bus,Over-speeding,National Highways under Other department,61,12.90144270557094,76.97032984046588,Foggy,Afternoon
+26-07-2023,08:40,Odisha,Accident,Auto-rickshaw,Fatigue,National Highways under State PWD,15,8.249933165132093,70.75126738307671,Clear,Morning
+20-04-2023,15:52,Gujarat,Fatal,Car,Drunk driving,National Highways under State PWD,7,16.33757298827668,92.79062669806132,Rainy,Afternoon
+16-12-2023,11:37,Arunachal Pradesh,Fatal,Auto-rickshaw,Fatigue,National Highways under NHAI,30,20.723105627388538,96.0393495713227,Rainy,Morning
+11-10-2023,07:05,Karnataka,Fatal,Bus,Drunk driving,National Highways under NHAI,28,10.784045693180136,96.75444360444753,Stormy,Morning
+14-07-2023,04:38,Madhya Pradesh,Fatal,Two-wheeler,Use of Mobile Phone,National Highways under NHAI,6,23.460420108700028,90.45011139284625,Rainy,Night
+21-05-2023,00:37,Kerala,Fatal,Two-wheeler,Fatigue,National Highways under State PWD,11,28.11766548280387,77.70424112998451,Stormy,Night
+11-11-2023,19:20,Tamil Nadu,Fatal,Truck,Drunk driving,National Highways under State PWD,44,33.42853760521602,83.00117008696483,Stormy,Evening
+20-07-2023,14:15,Chhattisgarh,Fatal,Two-wheeler,Drunk driving,National Highways under State PWD,41,21.322163409846617,75.26972846065583,Stormy,Afternoon
+12-09-2023,19:04,Jharkhand,Fatal,Car,Over-speeding,National Highways under NHAI,90,14.294992682239307,78.56956598232824,Stormy,Evening
+24-06-2023,04:37,Himachal Pradesh,Accident,Bus,Over-speeding,National Highways under State PWD,40,21.06513832278987,96.01501251056659,Foggy,Night
+05-06-2023,02:11,Telangana,Accident,Car,Drunk driving,National Highways under State PWD,39,23.06622461096803,76.33635223468397,Clear,Night
+12-11-2023,21:46,Jharkhand,Accident,Two-wheeler,Over-speeding,National Highways under NHAI,41,16.89465757559536,94.03575220096745,Foggy,Night
+18-12-2023,02:48,Uttar Pradesh,Fatal,Tractor,Over-speeding,National Highways under State PWD,41,24.608715317957586,95.0283804071501,Rainy,Night
+03-05-2023,02:52,Haryana,Fatal,Two-wheeler,Over-speeding,National Highways under Other department,25,20.946829932755996,77.57808682485764,Foggy,Night
+27-09-2023,19:02,Chhattisgarh,Fatal,Car,Use of Mobile Phone,National Highways under NHAI,81,8.213348395129682,89.44334740164157,Stormy,Evening
+05-12-2023,20:34,Haryana,Accident,Auto-rickshaw,Driving on Wrong side,National Highways under NHAI,91,21.67517765473865,77.62381944742059,Stormy,Evening
+13-03-2023,15:33,Kerala,Fatal,Two-wheeler,Driving on Wrong side,National Highways under NHAI,6,10.047324980875498,73.40070989062679,Clear,Afternoon
+03-12-2023,09:11,Rajasthan,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,67,22.90968273669645,90.95734117521137,Clear,Morning
+03-10-2023,16:49,Odisha,Accident,Van,Use of Mobile Phone,National Highways under State PWD,69,24.19963954093552,95.3450606117216,Rainy,Afternoon
+16-08-2023,01:10,West Bengal,Accident,Two-wheeler,Fatigue,National Highways under Other department,35,24.810326200387884,79.41900327403337,Rainy,Night
+01-04-2023,07:04,Madhya Pradesh,Fatal,Auto-rickshaw,Drunk driving,National Highways under Other department,97,21.558662561648294,78.8970751460304,Clear,Morning
+20-08-2023,03:13,Bihar,Fatal,Two-wheeler,Fatigue,National Highways under Other department,94,34.91364833537902,70.53766415585447,Stormy,Night
+02-12-2023,21:51,Telangana,Fatal,Auto-rickshaw,Fatigue,National Highways under Other department,99,25.389622651591917,70.54954871652593,Clear,Night
+15-06-2023,08:37,Punjab,Fatal,Truck,Fatigue,National Highways under Other department,74,10.82560754427555,81.59837740666998,Stormy,Morning
+16-01-2023,15:19,Himachal Pradesh,Accident,Tractor,Over-speeding,National Highways under Other department,87,11.656959776632323,90.23382198941313,Foggy,Afternoon
+17-06-2023,00:58,Bihar,Accident,Tractor,Drunk driving,National Highways under State PWD,58,19.87654506717916,91.70462535421278,Foggy,Night
+22-01-2023,12:29,Maharashtra,Fatal,Van,Driving on Wrong side,National Highways under State PWD,98,30.99355447313817,88.41544577858335,Rainy,Afternoon
+30-10-2023,06:52,Karnataka,Fatal,Auto-rickshaw,Use of Mobile Phone,National Highways under Other department,19,22.768890686519363,95.50931197477695,Rainy,Morning
+19-12-2023,06:32,Andaman and Nicobar Island,Fatal,Tractor,Fatigue,National Highways under NHAI,17,19.936841746111703,94.74640355089218,Rainy,Morning
+25-05-2023,08:03,Punjab,Fatal,Auto-rickshaw,Drunk driving,National Highways under State PWD,55,27.176239473949774,81.82153283662252,Stormy,Morning
+13-04-2023,10:17,Himachal Pradesh,Accident,Car,Use of Mobile Phone,National Highways under Other department,79,34.33614470718193,73.58832472781329,Stormy,Morning
+15-11-2023,03:25,Goa,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under NHAI,80,30.399529943624813,84.73201342708037,Clear,Night
+19-02-2023,12:11,West Bengal,Accident,Tractor,Drunk driving,National Highways under Other department,11,30.117712021786986,96.7028503250204,Foggy,Afternoon
+28-07-2023,14:56,Chandigarh,Accident,Car,Use of Mobile Phone,National Highways under State PWD,8,15.772938321591376,91.35828560376294,Stormy,Afternoon
+23-05-2023,02:55,Kerala,Accident,Two-wheeler,Fatigue,National Highways under Other department,63,31.773380892371534,70.26900707032786,Rainy,Night
+24-04-2023,06:22,Jammu and Kashmir,Fatal,Tractor,Driving on Wrong side,National Highways under Other department,97,33.74613056704683,94.81470419646854,Clear,Morning
+14-12-2023,08:13,West Bengal,Fatal,Auto-rickshaw,Fatigue,National Highways under Other department,65,33.08751849904195,87.4482163470237,Clear,Morning
+31-05-2023,01:49,Uttar Pradesh,Accident,Bus,Use of Mobile Phone,National Highways under Other department,77,25.090665109550272,73.75339537047155,Foggy,Night
+10-05-2023,01:15,Rajasthan,Accident,Auto-rickshaw,Drunk driving,National Highways under NHAI,83,12.119738050731272,83.98774169688696,Foggy,Night
+13-09-2023,22:12,West Bengal,Accident,Two-wheeler,Use of Mobile Phone,National Highways under Other department,100,9.711826343462414,79.8679641676302,Stormy,Night
+30-12-2023,22:54,Tamil Nadu,Accident,Truck,Over-speeding,National Highways under State PWD,67,27.5609104366025,92.69184760480051,Foggy,Night
+14-09-2023,09:15,Odisha,Accident,Two-wheeler,Drunk driving,National Highways under State PWD,88,32.30373419683982,90.30368228888747,Rainy,Morning
+05-02-2023,13:05,Uttar Pradesh,Accident,Van,Use of Mobile Phone,National Highways under NHAI,65,34.135026585669394,94.93133788782447,Clear,Afternoon
+10-02-2023,23:03,Himachal Pradesh,Accident,Tractor,Driving on Wrong side,National Highways under State PWD,100,34.27068520275577,82.18712175263526,Rainy,Night
+31-08-2023,04:00,Gujarat,Fatal,Two-wheeler,Over-speeding,National Highways under Other department,76,19.712182504813406,71.88244540201757,Rainy,Night
+20-10-2023,11:27,Tamil Nadu,Accident,Van,Driving on Wrong side,National Highways under Other department,53,18.319238906345966,89.51232707245663,Rainy,Morning
+02-11-2023,11:01,Delhi,Accident,Auto-rickshaw,Use of Mobile Phone,National Highways under State PWD,45,15.721074082765888,91.77646089539157,Stormy,Morning
+13-05-2023,13:31,Uttar Pradesh,Fatal,Auto-rickshaw,Over-speeding,National Highways under Other department,84,28.03135796574029,68.68808937574151,Foggy,Afternoon
+04-04-2023,01:56,Uttar Pradesh,Fatal,Van,Use of Mobile Phone,National Highways under NHAI,46,20.968005688361238,79.56767991234736,Stormy,Night
+27-11-2023,18:39,West Bengal,Fatal,Tractor,Use of Mobile Phone,National Highways under Other department,60,25.819326114919676,88.09227067321086,Clear,Evening
+11-04-2023,05:15,Tamil Nadu,Fatal,Tractor,Over-speeding,National Highways under Other department,80,14.422808834527071,79.8147177318396,Rainy,Morning
+10-03-2023,07:03,Uttar Pradesh,Accident,Car,Fatigue,National Highways under Other department,5,16.364128410172142,68.63280507275184,Rainy,Morning
+14-11-2023,06:44,West Bengal,Fatal,Bus,Over-speeding,National Highways under State PWD,84,11.834107145521049,91.95756337829307,Rainy,Morning
+18-12-2023,16:37,Jharkhand,Fatal,Truck,Over-speeding,National Highways under Other department,95,21.511907793176682,74.66516670514375,Stormy,Afternoon
+20-03-2023,14:56,Kerala,Fatal,Bus,Use of Mobile Phone,National Highways under NHAI,68,30.84305682543076,81.18217676214476,Stormy,Afternoon
+29-04-2023,15:40,Jammu and Kashmir,Fatal,Truck,Fatigue,National Highways under NHAI,88,25.95504567334243,78.40064746387115,Clear,Afternoon
+06-10-2023,02:04,Chandigarh,Accident,Truck,Fatigue,National Highways under State PWD,94,32.81818334914912,77.74875652998361,Stormy,Night
+08-02-2023,03:37,Telangana,Accident,Car,Over-speeding,National Highways under Other department,64,16.269036759619482,76.35185980681032,Foggy,Night
+04-02-2023,14:48,Jharkhand,Accident,Tractor,Fatigue,National Highways under NHAI,46,16.085957726884203,94.2456882051633,Stormy,Afternoon
+29-06-2023,04:33,Maharashtra,Fatal,Two-wheeler,Fatigue,National Highways under State PWD,64,13.525943420517475,75.72473640159416,Rainy,Night
+04-07-2023,23:44,Andaman and Nicobar Island,Fatal,Auto-rickshaw,Over-speeding,National Highways under Other department,98,13.018489918478481,68.62484231836126,Rainy,Night
+15-04-2023,12:57,Odisha,Fatal,Auto-rickshaw,Over-speeding,National Highways under Other department,74,10.85024610105698,78.25995675977973,Rainy,Afternoon
+05-05-2023,11:21,Chhattisgarh,Accident,Tractor,Over-speeding,National Highways under Other department,15,32.45008617114033,95.00679834127445,Rainy,Morning
